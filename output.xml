@@ -1,0 +1,287 @@
+<?xml version="1.0" ?>
+<grants xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="schema1.xsd">
+  <grant>
+    <grantId>0821855</grantId>
+    <funderCode>41___NATIONAL_SCIENCE_FOUNDATION_(ARLINGTON)</funderCode>
+    <funderAgency>National Science Foundation</funderAgency>
+    <startDate>20080901</startDate>
+    <amount>1431462</amount>
+    <grantName>MRI: Acquisition of a Siemens MAGNETOM Trio A Tim System</grantName>
+  </grant>
+  <grant>
+    <grantId>AG079515</grantId>
+    <funderCode>41___FOUNDATION_FOR_THE_NATIONAL_INSTITUTES_OF_HEALTH_(BETHESDA)</funderCode>
+    <funderAgency>National Institutes of Health</funderAgency>
+  </grant>
+  <grant>
+    <grantId>AG072328</grantId>
+    <funderCode>41___FOUNDATION_FOR_THE_NATIONAL_INSTITUTES_OF_HEALTH_(BETHESDA)</funderCode>
+    <funderAgency>National Institutes of Health</funderAgency>
+  </grant>
+  <grant>
+    <grantId>AG034570</grantId>
+    <funderCode>41___FOUNDATION_FOR_THE_NATIONAL_INSTITUTES_OF_HEALTH_(BETHESDA)</funderCode>
+    <funderAgency>National Institutes of Health</funderAgency>
+  </grant>
+  <grant>
+    <grantId>AG074330</grantId>
+    <funderCode>41___FOUNDATION_FOR_THE_NATIONAL_INSTITUTES_OF_HEALTH_(BETHESDA)</funderCode>
+    <funderAgency>National Institutes of Health</funderAgency>
+  </grant>
+  <grant>
+    <grantId>AG062542</grantId>
+    <funderCode>41___FOUNDATION_FOR_THE_NATIONAL_INSTITUTES_OF_HEALTH_(BETHESDA)</funderCode>
+    <funderAgency>National Institutes of Health</funderAgency>
+  </grant>
+  <grant>
+    <grantId>AG044292</grantId>
+    <funderCode>41___FOUNDATION_FOR_THE_NATIONAL_INSTITUTES_OF_HEALTH_(BETHESDA)</funderCode>
+    <funderAgency>National Institutes of Health</funderAgency>
+  </grant>
+  <grant>
+    <grantId>UH3DA050250</grantId>
+    <funderCode>41___NATIONAL_INSTITUTE_ON_DRUG_ABUSE_(BETHESDA)</funderCode>
+    <funderAgency>National Institute on Drug Abuse</funderAgency>
+  </grant>
+  <grant>
+    <grantId>DESC0019380</grantId>
+    <funderCode>41___UNITED_STATES_DEPARTMENT_OF_ENERGY_(WASHINGTON_D.C.)</funderCode>
+    <funderAgency>U.S. Department of Energy</funderAgency>
+    <investigator>
+      <investigatorId>gbentsen</investigatorId>
+      <investigatorIdType>primaryId</investigatorIdType>
+    </investigator>
+  </grant>
+  <grant>
+    <grantId>FA9550-19-1-0360</grantId>
+    <funderCode>41___UNITED_STATES_AIR_FORCE_OFFICE_OF_SCIENTIFIC_RESEARCH_(ARLINGTON)</funderCode>
+    <funderAgency>Air Force Office of Scientific Research</funderAgency>
+    <investigator>
+      <investigatorId>gbentsen</investigatorId>
+      <investigatorIdType>primaryId</investigatorIdType>
+    </investigator>
+  </grant>
+  <grant>
+    <grantId>P01-AG020166; U19-AG051426; U01-AG077928</grantId>
+    <funderCode>41___NATIONAL_INSTITUTE_ON_AGING_(BALTIMORE)</funderCode>
+    <funderAgency>National Institute on Aging</funderAgency>
+  </grant>
+  <grant>
+    <grantId>R01AG075117</grantId>
+    <funderCode>41___NATIONAL_INSTITUTE_ON_AGING_(BALTIMORE)</funderCode>
+    <funderAgency>National Institute on Aging</funderAgency>
+  </grant>
+  <grant>
+    <grantId>ECA DE-AC02-76SF00515</grantId>
+    <funderCode>41___UNITED_STATES_DEPARTMENT_OF_ENERGY_(WASHINGTON_D.C.)</funderCode>
+    <funderAgency>U.S. Department of Energy</funderAgency>
+  </grant>
+  <grant>
+    <grantId>RPG-2020-004</grantId>
+    <funderCode>41___LEVERHULME_TRUST_(LONDON)</funderCode>
+    <funderAgency>Leverhulme Trust</funderAgency>
+  </grant>
+  <grant>
+    <grantId>DFG—CR 312/5-2</grantId>
+    <funderCode>41___DEUTSCHE_FORSCHUNGSGEMEINSCHAFT_(BONN)</funderCode>
+    <funderAgency>Deutsche Forschungsgemeinschaft</funderAgency>
+  </grant>
+  <grant>
+    <grantId>DFG—CR 312/5-1</grantId>
+    <funderCode>41___DEUTSCHE_FORSCHUNGSGEMEINSCHAFT_(BONN)</funderCode>
+    <funderAgency>Deutsche Forschungsgemeinschaft</funderAgency>
+  </grant>
+  <grant>
+    <grantId>DFG—469666862</grantId>
+    <funderCode>41___DEUTSCHE_FORSCHUNGSGEMEINSCHAFT_(BONN)</funderCode>
+    <funderAgency>Deutsche Forschungsgemeinschaft</funderAgency>
+  </grant>
+  <grant>
+    <grantId>ANR-21-CE31-0022</grantId>
+    <funderCode>41___AGENCE_NATIONALE_DE_LA_RECHERCHE_(PARIS)</funderCode>
+    <funderAgency>Agence Nationale de la Recherche</funderAgency>
+  </grant>
+  <grant>
+    <grantId>ANR-21-CE31-0013</grantId>
+    <funderCode>41___AGENCE_NATIONALE_DE_LA_RECHERCHE_(PARIS)</funderCode>
+    <funderAgency>Agence Nationale de la Recherche</funderAgency>
+  </grant>
+  <grant>
+    <grantId>ANR-20-CE31-0013</grantId>
+    <funderCode>41___AGENCE_NATIONALE_DE_LA_RECHERCHE_(PARIS)</funderCode>
+    <funderAgency>Agence Nationale de la Recherche</funderAgency>
+  </grant>
+  <grant>
+    <grantId>NSFC-12075060</grantId>
+    <funderCode>41___NATIONAL_NATURAL_SCIENCE_FOUNDATION_OF_CHINA_(BEIJING)</funderCode>
+    <funderAgency>National Natural Science Foundation of China</funderAgency>
+  </grant>
+  <grant>
+    <grantId>NSFC 12275265</grantId>
+    <funderCode>41___NATIONAL_NATURAL_SCIENCE_FOUNDATION_OF_CHINA_(BEIJING)</funderCode>
+    <funderAgency>National Natural Science Foundation of China</funderAgency>
+  </grant>
+  <grant>
+    <grantId>NSFC-12175119</grantId>
+    <funderCode>41___NATIONAL_NATURAL_SCIENCE_FOUNDATION_OF_CHINA_(BEIJING)</funderCode>
+    <funderAgency>National Natural Science Foundation of China</funderAgency>
+  </grant>
+  <grant>
+    <grantId>Veni 2020—VI.Veni.202.179</grantId>
+    <funderCode>NOWO</funderCode>
+    <funderAgency>Nederlandse Organisatie voor Wetenschappelijk Onderzoek</funderAgency>
+  </grant>
+  <grant>
+    <grantId>CIDEGENT/2019/023</grantId>
+    <funderCode>41___GENERALITAT_VALENCIANA_(VALENCIA)</funderCode>
+    <funderAgency>Generalitat Valenciana</funderAgency>
+  </grant>
+  <grant>
+    <grantId>IDIFEDER/2018/048</grantId>
+    <funderCode>41___GENERALITAT_VALENCIANA_(VALENCIA)</funderCode>
+    <funderAgency>Generalitat Valenciana</funderAgency>
+  </grant>
+  <grant>
+    <grantId>CIDEGENT/2019/027</grantId>
+    <funderCode>41___GENERALITAT_VALENCIANA_(VALENCIA)</funderCode>
+    <funderAgency>Generalitat Valenciana</funderAgency>
+  </grant>
+  <grant>
+    <grantId>KAW 2017.0100</grantId>
+    <funderCode>KAWS</funderCode>
+    <funderAgency>Knut och Alice Wallenbergs Stiftelse</funderAgency>
+  </grant>
+  <grant>
+    <grantId>KAW 2018.0157</grantId>
+    <funderCode>KAWS</funderCode>
+    <funderAgency>Knut och Alice Wallenbergs Stiftelse</funderAgency>
+  </grant>
+  <grant>
+    <grantId>KAW 2022.0358</grantId>
+    <funderCode>KAWS</funderCode>
+    <funderAgency>Knut och Alice Wallenbergs Stiftelse</funderAgency>
+  </grant>
+  <grant>
+    <grantId>KAW 2019.0447</grantId>
+    <funderCode>KAWS</funderCode>
+    <funderAgency>Knut och Alice Wallenbergs Stiftelse</funderAgency>
+  </grant>
+  <grant>
+    <grantId>KAW 2018.0458</grantId>
+    <funderCode>KAWS</funderCode>
+    <funderAgency>Knut och Alice Wallenbergs Stiftelse</funderAgency>
+  </grant>
+  <grant>
+    <grantId>UMO-2020/37/B/ST2/01043</grantId>
+    <funderCode>NCN</funderCode>
+    <funderAgency>Narodowe Centrum Nauki</funderAgency>
+  </grant>
+  <grant>
+    <grantId>NCN OPUS nr 2022/47/B/ST2/03059</grantId>
+    <funderCode>NCN</funderCode>
+    <funderAgency>Narodowe Centrum Nauki</funderAgency>
+  </grant>
+  <grant>
+    <grantId>NCN 2021/42/E/ST2/00350</grantId>
+    <funderCode>NCN</funderCode>
+    <funderAgency>Narodowe Centrum Nauki</funderAgency>
+  </grant>
+  <grant>
+    <grantId>UMO-2022/47/O/ST2/00148</grantId>
+    <funderCode>NCN</funderCode>
+    <funderAgency>Narodowe Centrum Nauki</funderAgency>
+  </grant>
+  <grant>
+    <grantId>NCN UMO-2019/34/E/ST2/00393</grantId>
+    <funderCode>NCN</funderCode>
+    <funderAgency>Narodowe Centrum Nauki</funderAgency>
+  </grant>
+  <grant>
+    <grantId>UMO-2021/40/C/ST2/00187</grantId>
+    <funderCode>NCN</funderCode>
+    <funderAgency>Narodowe Centrum Nauki</funderAgency>
+  </grant>
+  <grant>
+    <grantId>J1-3010</grantId>
+    <funderCode>JARD</funderCode>
+    <funderAgency>Javna Agencija za Raziskovalno Dejavnost RS</funderAgency>
+  </grant>
+  <grant>
+    <grantId>PPN/PPO/2020/1/00002/U/00001</grantId>
+    <funderCode>41___NARODOWA_AGENCJA_WYMIANY_AKADEMICKIEJ_(WARSAW)</funderCode>
+    <funderAgency>Narodowa Agencja Wymiany Akademickiej</funderAgency>
+  </grant>
+  <grant>
+    <grantId>MUCCA—CHIST-ERA-19-XAI-00</grantId>
+    <funderCode>H2020</funderCode>
+    <funderAgency>Horizon 2020 Framework Programme</funderAgency>
+  </grant>
+  <grant>
+    <grantId>JSPS KAKENHI JP21H05085</grantId>
+    <funderCode>41___JAPAN_SOCIETY_FOR_THE_PROMOTION_OF_SCIENCE_(TOKYO)</funderCode>
+    <funderAgency>Japan Society for the Promotion of Science</funderAgency>
+  </grant>
+  <grant>
+    <grantId>JSPS KAKENHI JP22H01227</grantId>
+    <funderCode>41___JAPAN_SOCIETY_FOR_THE_PROMOTION_OF_SCIENCE_(TOKYO)</funderCode>
+    <funderAgency>Japan Society for the Promotion of Science</funderAgency>
+  </grant>
+  <grant>
+    <grantId>JSPS KAKENHI JP22KK0227</grantId>
+    <funderCode>41___JAPAN_SOCIETY_FOR_THE_PROMOTION_OF_SCIENCE_(TOKYO)</funderCode>
+    <funderAgency>Japan Society for the Promotion of Science</funderAgency>
+  </grant>
+  <grant>
+    <grantId>JSPS KAKENHI JP22H04944</grantId>
+    <funderCode>41___JAPAN_SOCIETY_FOR_THE_PROMOTION_OF_SCIENCE_(TOKYO)</funderCode>
+    <funderAgency>Japan Society for the Promotion of Science</funderAgency>
+  </grant>
+  <grant>
+    <grantId>H2020-MSCA-IF-2020</grantId>
+    <funderCode>41___EUROPEAN_RESEARCH_COUNCIL_(BRUSSELS)</funderCode>
+    <funderAgency>H2020 European Research Council</funderAgency>
+  </grant>
+  <grant>
+    <grantId>ERC 101089007</grantId>
+    <funderCode>41___EUROPEAN_RESEARCH_COUNCIL_(BRUSSELS)</funderCode>
+    <funderAgency>H2020 European Research Council</funderAgency>
+  </grant>
+  <grant>
+    <grantId>ERC—948254</grantId>
+    <funderCode>41___EUROPEAN_RESEARCH_COUNCIL_(BRUSSELS)</funderCode>
+    <funderAgency>H2020 European Research Council</funderAgency>
+  </grant>
+  <grant>
+    <grantId>FONDECYT 1230987</grantId>
+    <funderCode>41___EUROPEAN_RESEARCH_COUNCIL_(BRUSSELS)</funderCode>
+    <funderAgency>H2020 European Research Council</funderAgency>
+  </grant>
+  <grant>
+    <grantId>FONDECYT 1210400</grantId>
+    <funderCode>41___EUROPEAN_RESEARCH_COUNCIL_(BRUSSELS)</funderCode>
+    <funderAgency>H2020 European Research Council</funderAgency>
+  </grant>
+  <grant>
+    <grantId>FONDECYT 1230812</grantId>
+    <funderCode>41___EUROPEAN_RESEARCH_COUNCIL_(BRUSSELS)</funderCode>
+    <funderAgency>H2020 European Research Council</funderAgency>
+  </grant>
+  <grant>
+    <grantId>T32-NS115672</grantId>
+    <funderCode>41___NATIONAL_INSTITUTE_OF_NEUROLOGICAL_DISORDERS_AND_STROKE_(BETHESDA)</funderCode>
+    <funderAgency>National Institute of Neurological Disorders and Stroke</funderAgency>
+    <investigator>
+      <investigatorId>jlcrawford</investigatorId>
+      <investigatorIdType>primaryId</investigatorIdType>
+    </investigator>
+  </grant>
+  <grant>
+    <grantId>T32-NS007292</grantId>
+    <funderCode>41___NATIONAL_INSTITUTE_OF_NEUROLOGICAL_DISORDERS_AND_STROKE_(BETHESDA)</funderCode>
+    <funderAgency>National Institute of Neurological Disorders and Stroke</funderAgency>
+    <investigator>
+      <investigatorId>jlcrawford</investigatorId>
+      <investigatorIdType>primaryId</investigatorIdType>
+    </investigator>
+  </grant>
+</grants>

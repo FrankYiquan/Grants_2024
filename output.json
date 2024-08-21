@@ -1,0 +1,2362 @@
+[
+    {
+        "doi": "https://doi.org/10.1016/j.jpba.2024.116228",
+        "authorships": [
+            {
+                "author_position": "first",
+                "display_name": "Zhaoxi Zheng",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Yongchao Su",
+                "orcid": "https://orcid.org/0000-0001-5063-3218"
+            },
+            {
+                "author_position": "last",
+                "display_name": "Klaus Schmidt\u2010Rohr",
+                "orcid": "https://orcid.org/0000-0002-3188-4828"
+            }
+        ],
+        "primary_topic": "NMR Spectroscopy Techniques",
+        "grants": [
+            {
+                "funder_display_name": "National Science Foundation",
+                "award_id": "1726346"
+            }
+        ]
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.worlddev.2024.106608",
+        "authorships": [
+            {
+                "author_position": "first",
+                "display_name": "Mat\u00edas Herrera Dappe",
+                "orcid": "https://orcid.org/0000-0002-0988-2674"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Aldo Musacchio",
+                "orcid": "https://orcid.org/0000-0003-3400-9938"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Burak Turkgulu",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Carolina Pan",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Jonathan Barboza",
+                "orcid": null
+            },
+            {
+                "author_position": "last",
+                "display_name": "Yadviga Viktorivna Semikolenova",
+                "orcid": null
+            }
+        ],
+        "primary_topic": "Impact of Oil Price Shocks on Economy",
+        "grants": [
+            {
+                "funder_display_name": "World Bank Group",
+                "award_id": "P172275"
+            }
+        ]
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.physletb.2024.138705",
+        "authorships": [
+            {
+                "author_position": "first",
+                "display_name": "Georges Aad",
+                "orcid": "https://orcid.org/0000-0002-6665-4934"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "B. Abbott",
+                "orcid": "https://orcid.org/0000-0002-5888-2734"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Kira Abeling",
+                "orcid": "https://orcid.org/0000-0002-1002-1652"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Nils Julius Abicht",
+                "orcid": "https://orcid.org/0000-0001-5763-2760"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Syed Haider Abidi",
+                "orcid": "https://orcid.org/0000-0002-8496-9294"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Asmaa Aboulhorma",
+                "orcid": "https://orcid.org/0000-0002-9987-2292"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "H. Abramowicz",
+                "orcid": "https://orcid.org/0000-0001-5329-6640"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Henso Abreu",
+                "orcid": "https://orcid.org/0000-0002-1599-2896"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Yiming Abulaiti",
+                "orcid": "https://orcid.org/0000-0003-0403-3697"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Bobby Samir Acharya",
+                "orcid": "https://orcid.org/0000-0002-8588-9157"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "C. Bourdarios",
+                "orcid": "https://orcid.org/0000-0002-2634-4958"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "L. Adamczyk",
+                "orcid": "https://orcid.org/0000-0002-5859-2075"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Sagar Addepalli",
+                "orcid": "https://orcid.org/0000-0002-2919-6663"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "M. J. Addison",
+                "orcid": "https://orcid.org/0000-0002-8387-3661"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "J. Adelman",
+                "orcid": "https://orcid.org/0000-0002-1041-3496"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Ayt\u00fcl Ad\u0131g\u00fczel",
+                "orcid": "https://orcid.org/0000-0001-6644-0517"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "T. Adye",
+                "orcid": "https://orcid.org/0000-0003-0627-5059"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Tony Affolder",
+                "orcid": "https://orcid.org/0000-0002-9058-7217"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Yoav Afik",
+                "orcid": "https://orcid.org/0000-0001-8102-356X"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Merve Nazlim Agaras",
+                "orcid": "https://orcid.org/0000-0002-4355-5589"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Jinky Agarwala",
+                "orcid": "https://orcid.org/0000-0002-4754-7455"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Anamika Aggarwal",
+                "orcid": "https://orcid.org/0000-0002-1922-2039"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "C\u01cet\u01celin Agheorghiesei",
+                "orcid": "https://orcid.org/0000-0003-3695-1847"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Ammara Ahmad",
+                "orcid": "https://orcid.org/0000-0001-8638-0582"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Faig Ahmadov",
+                "orcid": "https://orcid.org/0000-0003-3644-540X"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Waleed Syed Ahmed",
+                "orcid": "https://orcid.org/0000-0003-0128-3279"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Sudha Ahuja",
+                "orcid": "https://orcid.org/0000-0003-4368-9285"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Xiaocong Ai",
+                "orcid": "https://orcid.org/0000-0003-3856-2415"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Giulio Aielli",
+                "orcid": "https://orcid.org/0000-0002-0573-8114"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "A. Aikot",
+                "orcid": "https://orcid.org/0000-0001-6578-6890"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "M. Ait Tamlihat",
+                "orcid": "https://orcid.org/0000-0002-1322-4666"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "B. Aitbenchikh",
+                "orcid": "https://orcid.org/0000-0002-8020-1181"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Iakov Aizenberg",
+                "orcid": "https://orcid.org/0000-0003-2150-1624"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Melike Akbiyik",
+                "orcid": "https://orcid.org/0000-0002-7342-3130"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "T. P. A. \u00c5kesson",
+                "orcid": "https://orcid.org/0000-0003-4141-5408"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "\u0410\u043d\u0434\u0440\u0435\u0439 \u0410\u043a\u0438\u043c\u043e\u0432",
+                "orcid": "https://orcid.org/0000-0002-2846-2958"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Daiya Akiyama",
+                "orcid": "https://orcid.org/0000-0001-7623-6421"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Nilima Nilesh Akolkar",
+                "orcid": "https://orcid.org/0000-0003-3424-2123"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Sina Aktas",
+                "orcid": "https://orcid.org/0000-0002-8250-6501"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Konie Al Khoury",
+                "orcid": "https://orcid.org/0000-0002-0547-8199"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Gian Luigi Alberghi",
+                "orcid": "https://orcid.org/0000-0003-2388-987X"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "J. Albert",
+                "orcid": "https://orcid.org/0000-0003-0253-2505"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Pietro Albicocco",
+                "orcid": "https://orcid.org/0000-0001-6430-1038"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Guillaume Lucas Albouy",
+                "orcid": "https://orcid.org/0000-0003-0830-0107"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Sara Alderweireldt",
+                "orcid": "https://orcid.org/0000-0002-8224-7036"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Zackary Lee Alegria",
+                "orcid": "https://orcid.org/0000-0002-1977-0799"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Martin Aleksa",
+                "orcid": "https://orcid.org/0000-0002-1936-9217"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Igor Aleksandrov",
+                "orcid": "https://orcid.org/0000-0001-7381-6762"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Calin Alexa",
+                "orcid": "https://orcid.org/0000-0003-0922-7669"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Theodoros Alexopoulos",
+                "orcid": "https://orcid.org/0000-0002-8977-279X"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Fabrizio Alfonsi",
+                "orcid": "https://orcid.org/0000-0002-0966-0211"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Malte Algren",
+                "orcid": "https://orcid.org/0000-0003-1793-1787"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Muhammad Alhroob",
+                "orcid": "https://orcid.org/0000-0001-7569-7111"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Babar Ali",
+                "orcid": "https://orcid.org/0000-0001-8653-5556"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Hanadi Ali",
+                "orcid": "https://orcid.org/0000-0002-4507-7349"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Shahzad Ali",
+                "orcid": "https://orcid.org/0000-0001-5216-3133"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Samuel William Alibocus",
+                "orcid": "https://orcid.org/0000-0002-9377-8852"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Malik Aliev",
+                "orcid": "https://orcid.org/0000-0002-9012-3746"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "G. Alimonti",
+                "orcid": "https://orcid.org/0000-0002-7128-9046"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "W. Alkakhi",
+                "orcid": "https://orcid.org/0000-0001-9355-4245"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Corentin Allaire",
+                "orcid": "https://orcid.org/0000-0003-4745-538X"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Benedict Allbrooke",
+                "orcid": "https://orcid.org/0000-0002-5738-2471"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "J. F. Allen",
+                "orcid": "https://orcid.org/0000-0001-9990-7486"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Chad Flores",
+                "orcid": "https://orcid.org/0000-0002-1509-3217"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "P. P. Allport",
+                "orcid": "https://orcid.org/0000-0001-7303-2570"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "A. Aloisio",
+                "orcid": "https://orcid.org/0000-0002-3883-6693"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Francisco Alonso",
+                "orcid": "https://orcid.org/0000-0001-9431-8156"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Cristiano Alpigiani",
+                "orcid": "https://orcid.org/0000-0002-7641-5814"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Manuel Alvarez Estevez",
+                "orcid": "https://orcid.org/0000-0002-8181-6532"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Adrian \u00c1lvarez Fern\u00e1ndez",
+                "orcid": "https://orcid.org/0000-0003-1525-4620"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "M. Alves Cardoso",
+                "orcid": "https://orcid.org/0000-0002-0042-292X"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Mariagrazia Alviggi",
+                "orcid": "https://orcid.org/0000-0003-0026-982X"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Mohamed Aly",
+                "orcid": "https://orcid.org/0000-0003-3043-3715"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Yara Amaral Coutinho",
+                "orcid": "https://orcid.org/0000-0002-1798-7230"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Alessandro Ambler",
+                "orcid": "https://orcid.org/0000-0003-2184-3480"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "C. G. Ames",
+                "orcid": "https://orcid.org/0000-0002-2126-4246"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Maximilian Amerl",
+                "orcid": "https://orcid.org/0000-0003-1155-7982"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "C. G. Ames",
+                "orcid": "https://orcid.org/0000-0002-2126-4246"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "D. Amidei",
+                "orcid": "https://orcid.org/0000-0002-6814-0355"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Susana Patricia Amor dos Santos",
+                "orcid": "https://orcid.org/0000-0001-7566-6067"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Kieran Robert Amos",
+                "orcid": "https://orcid.org/0000-0003-1757-5620"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Viktor Ananiev",
+                "orcid": "https://orcid.org/0000-0003-3649-7621"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Christos Anastopoulos",
+                "orcid": "https://orcid.org/0000-0003-1587-5830"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "T. Andeen",
+                "orcid": "https://orcid.org/0000-0002-4413-871X"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "John Kenneth Anders",
+                "orcid": "https://orcid.org/0000-0002-1846-0262"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Stefio Yosse Andrean",
+                "orcid": "https://orcid.org/0000-0002-9766-2670"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "A. Andreazza",
+                "orcid": "https://orcid.org/0000-0001-5161-5759"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Stylianos Angelidakis",
+                "orcid": "https://orcid.org/0000-0002-8274-6118"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Aaron Angerami",
+                "orcid": "https://orcid.org/0000-0001-7834-8750"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Alexey Anisenkov",
+                "orcid": "https://orcid.org/0000-0002-7201-5936"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "A. Annovi",
+                "orcid": "https://orcid.org/0000-0002-4649-4398"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Claire Antel",
+                "orcid": "https://orcid.org/0000-0001-9683-0890"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Matthew Thomas Anthony",
+                "orcid": "https://orcid.org/0000-0002-5270-0143"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Egor Antipov",
+                "orcid": "https://orcid.org/0000-0002-6678-7665"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "M. Antonelli",
+                "orcid": "https://orcid.org/0000-0002-2293-5726"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "F. Anulli",
+                "orcid": "https://orcid.org/0000-0003-2734-130X"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Masato Aoki",
+                "orcid": "https://orcid.org/0000-0001-7498-0097"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Takao Aoki",
+                "orcid": "https://orcid.org/0000-0002-6618-5170"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Javier Alberto Aparisi Pozo",
+                "orcid": "https://orcid.org/0000-0001-7401-4331"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Marco Aparo",
+                "orcid": "https://orcid.org/0000-0003-4675-7810"
+            }
+        ],
+        "primary_topic": "Particle Physics and High-Energy Collider Experiments",
+        "grants": []
+    },
+    {
+        "doi": "https://doi.org/10.1145/3662165.3662766",
+        "authorships": [
+            {
+                "author_position": "first",
+                "display_name": "Shubham Kaushik",
+                "orcid": "https://orcid.org/0009-0002-7336-2312"
+            },
+            {
+                "author_position": "last",
+                "display_name": "Subhadeep Sarkar",
+                "orcid": "https://orcid.org/0000-0001-5356-203X"
+            }
+        ],
+        "primary_topic": "Distributed Storage Systems and Network Coding",
+        "grants": []
+    },
+    {
+        "doi": "https://doi.org/10.1145/3662165.3662765",
+        "authorships": [
+            {
+                "author_position": "first",
+                "display_name": "Zichen Zhu",
+                "orcid": "https://orcid.org/0000-0002-9197-4649"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Arpita Saha",
+                "orcid": "https://orcid.org/0000-0002-6235-8126"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Manos Athanassoulis",
+                "orcid": "https://orcid.org/0000-0003-1837-0010"
+            },
+            {
+                "author_position": "last",
+                "display_name": "Subhadeep Sarkar",
+                "orcid": "https://orcid.org/0000-0001-5356-203X"
+            }
+        ],
+        "primary_topic": "Distributed Storage Systems and Network Coding",
+        "grants": []
+    },
+    {
+        "doi": "https://doi.org/10.1515/etst-2024-0006",
+        "authorships": [
+            {
+                "author_position": "first",
+                "display_name": "Anthony Tuck",
+                "orcid": "https://orcid.org/0000-0002-3758-392X"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Anastasia Belinskaya",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Nora K. Donoghue",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Ann Glennie",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Katharine R. Kreindler",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "E\u00f3in O\u2019Donoghue",
+                "orcid": null
+            },
+            {
+                "author_position": "last",
+                "display_name": "Cole Reilly",
+                "orcid": "https://orcid.org/0009-0003-9123-2244"
+            }
+        ],
+        "primary_topic": "Archaeological Studies of Ancient Mediterranean Civilizations",
+        "grants": []
+    },
+    {
+        "doi": "https://doi.org/10.1101/2024.06.01.596982",
+        "authorships": [
+            {
+                "author_position": "first",
+                "display_name": "Wei Wen",
+                "orcid": "https://orcid.org/0000-0003-1422-856X"
+            },
+            {
+                "author_position": "last",
+                "display_name": "Gina G. Turrigiano",
+                "orcid": "https://orcid.org/0000-0002-4476-4059"
+            }
+        ],
+        "primary_topic": "Neuronal Oscillations in Cortical Networks",
+        "grants": []
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.drugalcdep.2024.111293",
+        "authorships": [
+            {
+                "author_position": "first",
+                "display_name": "Shikhar Shrestha",
+                "orcid": "https://orcid.org/0000-0002-4349-8326"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Thomas J. Stopka",
+                "orcid": "https://orcid.org/0000-0003-2314-8924"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Jaclyn M. W. Hughto",
+                "orcid": "https://orcid.org/0000-0003-4722-8179"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Patricia Case",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Wilson R. Palacios",
+                "orcid": "https://orcid.org/0000-0002-4926-4088"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Brittni Reilly",
+                "orcid": null
+            },
+            {
+                "author_position": "last",
+                "display_name": "Traci C. Green",
+                "orcid": "https://orcid.org/0000-0001-9105-6904"
+            }
+        ],
+        "primary_topic": "Opioid Epidemic in the United States",
+        "grants": [
+            {
+                "funder_display_name": "Centers for Disease Control and Prevention",
+                "award_id": null
+            }
+        ]
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.josat.2024.209357",
+        "authorships": [
+            {
+                "author_position": "first",
+                "display_name": "Allie Silverman",
+                "orcid": "https://orcid.org/0000-0001-9234-0130"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Melissa A. Westlake",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Olivia M. Hinds",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Samantha J. Harris",
+                "orcid": "https://orcid.org/0000-0002-6409-0581"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Amanda J. Abraham",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Colleen M. Grogan",
+                "orcid": null
+            },
+            {
+                "author_position": "last",
+                "display_name": "Christina M. Andrews",
+                "orcid": "https://orcid.org/0000-0003-4513-1349"
+            }
+        ],
+        "primary_topic": "Opioid Epidemic in the United States",
+        "grants": [
+            {
+                "funder_display_name": "National Institute on Alcohol Abuse and Alcoholism",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "National Institute on Drug Abuse",
+                "award_id": null
+            }
+        ]
+    },
+    {
+        "doi": "https://doi.org/10.1016/j.jfs.2024.101268",
+        "authorships": [
+            {
+                "author_position": "first",
+                "display_name": "Luca Pezzo",
+                "orcid": "https://orcid.org/0000-0001-7447-9710"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Yinchu Zhu",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "M. Kabir Hassan",
+                "orcid": "https://orcid.org/0000-0001-6274-3545"
+            },
+            {
+                "author_position": "last",
+                "display_name": "Jia-yuan Tian",
+                "orcid": "https://orcid.org/0000-0002-9695-0128"
+            }
+        ],
+        "primary_topic": "Asset Pricing and Market Efficiency",
+        "grants": []
+    },
+    {
+        "doi": "https://doi.org/10.1091/mbc.e24-04-0149",
+        "authorships": [
+            {
+                "author_position": "first",
+                "display_name": "Avital A. Rodal",
+                "orcid": "https://orcid.org/0000-0002-2051-8304"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Eric Zeigler",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Rafael Garc\u00eda\u2010Mata",
+                "orcid": "https://orcid.org/0000-0002-7116-4411"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Jaqulin N. Wallace",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "James L. Morgan",
+                "orcid": "https://orcid.org/0000-0001-9915-6360"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Avital A. Rodal",
+                "orcid": "https://orcid.org/0000-0002-2051-8304"
+            },
+            {
+                "author_position": "last",
+                "display_name": "Matthew Welch",
+                "orcid": "https://orcid.org/0000-0003-2537-6349"
+            }
+        ],
+        "primary_topic": "Advanced Techniques in Bioimage Analysis and Microscopy",
+        "grants": []
+    },
+    {
+        "doi": "https://doi.org/10.1257/aer.20220425",
+        "authorships": [
+            {
+                "author_position": "first",
+                "display_name": "Jiwon Choi",
+                "orcid": "https://orcid.org/0009-0005-0848-8594"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Ilyana Kuziemko",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Ebonya Washington",
+                "orcid": null
+            },
+            {
+                "author_position": "last",
+                "display_name": "Gavin Wright",
+                "orcid": null
+            }
+        ],
+        "primary_topic": "Impact of International Trade on Productivity and Growth",
+        "grants": []
+    },
+    {
+        "doi": "https://doi.org/10.1093/ve/veae042",
+        "authorships": [
+            {
+                "author_position": "first",
+                "display_name": "Michael A. Martin",
+                "orcid": "https://orcid.org/0000-0002-9689-4066"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Nick Berg",
+                "orcid": "https://orcid.org/0009-0005-2444-3556"
+            },
+            {
+                "author_position": "last",
+                "display_name": "Katia Koelle",
+                "orcid": "https://orcid.org/0000-0002-0254-6141"
+            }
+        ],
+        "primary_topic": "Influenza Virus Research and Epidemiology",
+        "grants": []
+    },
+    {
+        "doi": "https://doi.org/10.1001/jamanetworkopen.2024.13861",
+        "authorships": [
+            {
+                "author_position": "first",
+                "display_name": "Xiao Zang",
+                "orcid": "https://orcid.org/0000-0002-5722-8255"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Alexandra Skinner",
+                "orcid": "https://orcid.org/0000-0001-5071-6937"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Maxwell S. Krieger",
+                "orcid": "https://orcid.org/0000-0001-9975-1610"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Czarina N. Behrends",
+                "orcid": "https://orcid.org/0000-0003-3885-088X"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Ju N. Park",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Traci C. Green",
+                "orcid": "https://orcid.org/0000-0001-9105-6904"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Alexander Y. Walley",
+                "orcid": "https://orcid.org/0000-0002-8158-4882"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Jake R. Morgan",
+                "orcid": "https://orcid.org/0000-0002-1559-3983"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Benjamin P. Linas",
+                "orcid": "https://orcid.org/0000-0001-9574-7075"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Jesse L. Yedinak",
+                "orcid": "https://orcid.org/0000-0001-8250-5157"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Bruce R. Schackman",
+                "orcid": "https://orcid.org/0000-0002-1132-2932"
+            },
+            {
+                "author_position": "last",
+                "display_name": "Brandon D. L. Marshall",
+                "orcid": "https://orcid.org/0000-0002-6661-0245"
+            }
+        ],
+        "primary_topic": "Opioid Epidemic in the United States",
+        "grants": []
+    },
+    {
+        "doi": "https://doi.org/10.1103/physrevlett.132.221801",
+        "authorships": [
+            {
+                "author_position": "first",
+                "display_name": "Georges Aad",
+                "orcid": "https://orcid.org/0000-0002-6665-4934"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Erlend Aakvaag",
+                "orcid": "https://orcid.org/0000-0001-7616-1554"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "B. Abbott",
+                "orcid": "https://orcid.org/0000-0002-5888-2734"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Kira Abeling",
+                "orcid": "https://orcid.org/0000-0002-1002-1652"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Nils Julius Abicht",
+                "orcid": "https://orcid.org/0000-0001-5763-2760"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Syed Haider Abidi",
+                "orcid": "https://orcid.org/0000-0002-8496-9294"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Mohammed Aboelela",
+                "orcid": "https://orcid.org/0009-0003-6578-220X"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Asmaa Aboulhorma",
+                "orcid": "https://orcid.org/0000-0002-9987-2292"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "H. Abramowicz",
+                "orcid": "https://orcid.org/0000-0001-5329-6640"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Henso Abreu",
+                "orcid": "https://orcid.org/0000-0002-1599-2896"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Yiming Abulaiti",
+                "orcid": "https://orcid.org/0000-0003-0403-3697"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Bobby Samir Acharya",
+                "orcid": "https://orcid.org/0000-0002-8588-9157"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "A.L. Ackermann",
+                "orcid": "https://orcid.org/0000-0003-4699-7275"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "C. Bourdarios",
+                "orcid": "https://orcid.org/0000-0002-2634-4958"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "L. Adamczyk",
+                "orcid": "https://orcid.org/0000-0002-5859-2075"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Sagar Addepalli",
+                "orcid": "https://orcid.org/0000-0002-2919-6663"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "M. J. Addison",
+                "orcid": "https://orcid.org/0000-0002-8387-3661"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "J. Adelman",
+                "orcid": "https://orcid.org/0000-0002-1041-3496"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Ayt\u00fcl Ad\u0131g\u00fczel",
+                "orcid": "https://orcid.org/0000-0001-6644-0517"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "T. Adye",
+                "orcid": "https://orcid.org/0000-0003-0627-5059"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Tony Affolder",
+                "orcid": "https://orcid.org/0000-0002-9058-7217"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Yoav Afik",
+                "orcid": "https://orcid.org/0000-0001-8102-356X"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Merve Nazlim Agaras",
+                "orcid": "https://orcid.org/0000-0002-4355-5589"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Jinky Agarwala",
+                "orcid": "https://orcid.org/0000-0002-4754-7455"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Anamika Aggarwal",
+                "orcid": "https://orcid.org/0000-0002-1922-2039"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "C\u01cet\u01celin Agheorghiesei",
+                "orcid": "https://orcid.org/0000-0003-3695-1847"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Ammara Ahmad",
+                "orcid": "https://orcid.org/0000-0001-8638-0582"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Faig Ahmadov",
+                "orcid": "https://orcid.org/0000-0003-3644-540X"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Waleed Syed Ahmed",
+                "orcid": "https://orcid.org/0000-0003-0128-3279"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Sudha Ahuja",
+                "orcid": "https://orcid.org/0000-0003-4368-9285"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Xiaocong Ai",
+                "orcid": "https://orcid.org/0000-0003-3856-2415"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Giulio Aielli",
+                "orcid": "https://orcid.org/0000-0002-0573-8114"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "A. Aikot",
+                "orcid": "https://orcid.org/0000-0001-6578-6890"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "M. Ait Tamlihat",
+                "orcid": "https://orcid.org/0000-0002-1322-4666"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "B. Aitbenchikh",
+                "orcid": "https://orcid.org/0000-0002-8020-1181"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Iakov Aizenberg",
+                "orcid": "https://orcid.org/0000-0003-2150-1624"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Melike Akbiyik",
+                "orcid": "https://orcid.org/0000-0002-7342-3130"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "T. P. A. \u00c5kesson",
+                "orcid": "https://orcid.org/0000-0003-4141-5408"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "\u0410\u043d\u0434\u0440\u0435\u0439 \u0410\u043a\u0438\u043c\u043e\u0432",
+                "orcid": "https://orcid.org/0000-0002-2846-2958"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Daiya Akiyama",
+                "orcid": "https://orcid.org/0000-0001-7623-6421"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Nilima Nilesh Akolkar",
+                "orcid": "https://orcid.org/0000-0003-3424-2123"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Sina Aktas",
+                "orcid": "https://orcid.org/0000-0002-8250-6501"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Konie Al Khoury",
+                "orcid": "https://orcid.org/0000-0002-0547-8199"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Gian Luigi Alberghi",
+                "orcid": "https://orcid.org/0000-0003-2388-987X"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "J. Albert",
+                "orcid": "https://orcid.org/0000-0003-0253-2505"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Pietro Albicocco",
+                "orcid": "https://orcid.org/0000-0001-6430-1038"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Guillaume Lucas Albouy",
+                "orcid": "https://orcid.org/0000-0003-0830-0107"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Sara Alderweireldt",
+                "orcid": "https://orcid.org/0000-0002-8224-7036"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Zackary Lee Alegria",
+                "orcid": "https://orcid.org/0000-0002-1977-0799"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Martin Aleksa",
+                "orcid": "https://orcid.org/0000-0002-1936-9217"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Igor Aleksandrov",
+                "orcid": "https://orcid.org/0000-0001-7381-6762"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Calin Alexa",
+                "orcid": "https://orcid.org/0000-0003-0922-7669"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Theodoros Alexopoulos",
+                "orcid": "https://orcid.org/0000-0002-8977-279X"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Fabrizio Alfonsi",
+                "orcid": "https://orcid.org/0000-0002-0966-0211"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Malte Algren",
+                "orcid": "https://orcid.org/0000-0003-1793-1787"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Muhammad Alhroob",
+                "orcid": "https://orcid.org/0000-0001-7569-7111"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Babar Ali",
+                "orcid": "https://orcid.org/0000-0001-8653-5556"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Hanadi Ali",
+                "orcid": "https://orcid.org/0000-0002-4507-7349"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Shahzad Ali",
+                "orcid": "https://orcid.org/0000-0001-5216-3133"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Samuel William Alibocus",
+                "orcid": "https://orcid.org/0000-0002-9377-8852"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Malik Aliev",
+                "orcid": "https://orcid.org/0000-0002-9012-3746"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "G. Alimonti",
+                "orcid": "https://orcid.org/0000-0002-7128-9046"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "W. Alkakhi",
+                "orcid": "https://orcid.org/0000-0001-9355-4245"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Corentin Allaire",
+                "orcid": "https://orcid.org/0000-0003-4745-538X"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Benedict Allbrooke",
+                "orcid": "https://orcid.org/0000-0002-5738-2471"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "J. F. Allen",
+                "orcid": "https://orcid.org/0000-0001-9990-7486"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Chad Flores",
+                "orcid": "https://orcid.org/0000-0002-1509-3217"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "P. P. Allport",
+                "orcid": "https://orcid.org/0000-0001-7303-2570"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "A. Aloisio",
+                "orcid": "https://orcid.org/0000-0002-3883-6693"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Francisco Alonso",
+                "orcid": "https://orcid.org/0000-0001-9431-8156"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Cristiano Alpigiani",
+                "orcid": "https://orcid.org/0000-0002-7641-5814"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Manuel Alvarez Estevez",
+                "orcid": "https://orcid.org/0000-0002-8181-6532"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Adrian \u00c1lvarez Fern\u00e1ndez",
+                "orcid": "https://orcid.org/0000-0003-1525-4620"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "M. Alves Cardoso",
+                "orcid": "https://orcid.org/0000-0002-0042-292X"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Mariagrazia Alviggi",
+                "orcid": "https://orcid.org/0000-0003-0026-982X"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Mohamed Aly",
+                "orcid": "https://orcid.org/0000-0003-3043-3715"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Yara Amaral Coutinho",
+                "orcid": "https://orcid.org/0000-0002-1798-7230"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Alessandro Ambler",
+                "orcid": "https://orcid.org/0000-0003-2184-3480"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "C. G. Ames",
+                "orcid": "https://orcid.org/0000-0002-2126-4246"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Maximilian Amerl",
+                "orcid": "https://orcid.org/0000-0003-1155-7982"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "C. G. Ames",
+                "orcid": "https://orcid.org/0000-0002-2126-4246"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "D. Amidei",
+                "orcid": "https://orcid.org/0000-0002-6814-0355"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Kyle Amirie",
+                "orcid": "https://orcid.org/0000-0002-8029-7347"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Susana Patricia Amor dos Santos",
+                "orcid": "https://orcid.org/0000-0001-7566-6067"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Kieran Robert Amos",
+                "orcid": "https://orcid.org/0000-0003-1757-5620"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Sitong An",
+                "orcid": "https://orcid.org/0000-0002-9740-1622"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Viktor Ananiev",
+                "orcid": "https://orcid.org/0000-0003-3649-7621"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Christos Anastopoulos",
+                "orcid": "https://orcid.org/0000-0003-1587-5830"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "T. Andeen",
+                "orcid": "https://orcid.org/0000-0002-4413-871X"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "John Kenneth Anders",
+                "orcid": "https://orcid.org/0000-0002-1846-0262"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Stefio Yosse Andrean",
+                "orcid": "https://orcid.org/0000-0002-9766-2670"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "A. Andreazza",
+                "orcid": "https://orcid.org/0000-0001-5161-5759"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Stylianos Angelidakis",
+                "orcid": "https://orcid.org/0000-0002-8274-6118"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Aaron Angerami",
+                "orcid": "https://orcid.org/0000-0001-7834-8750"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Alexey Anisenkov",
+                "orcid": "https://orcid.org/0000-0002-7201-5936"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "A. Annovi",
+                "orcid": "https://orcid.org/0000-0002-4649-4398"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Claire Antel",
+                "orcid": "https://orcid.org/0000-0001-9683-0890"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Matthew Thomas Anthony",
+                "orcid": "https://orcid.org/0000-0002-5270-0143"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Egor Antipov",
+                "orcid": "https://orcid.org/0000-0002-6678-7665"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "M. Antonelli",
+                "orcid": "https://orcid.org/0000-0002-2293-5726"
+            }
+        ],
+        "primary_topic": "Particle Physics and High-Energy Collider Experiments",
+        "grants": [
+            {
+                "funder_display_name": "National Science Foundation",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "U.S. Department of Energy",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Alexander von Humboldt-Stiftung",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Univerzita Karlova v Praze",
+                "award_id": "UNCE SCI/013"
+            },
+            {
+                "funder_display_name": "Univerzita Karlova v Praze",
+                "award_id": "PRIMUS 21/SCI/017"
+            },
+            {
+                "funder_display_name": "Fundaci\u00f3n BBVA",
+                "award_id": "LEO22-1-603"
+            },
+            {
+                "funder_display_name": "Canarie",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Baden-W\u00fcrttemberg Stiftung",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Karlsruhe Institute of Technology",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "\u201cla Caixa\u201d Foundation",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Arizona-Nevada Academy of Science",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "TRIUMF",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "CERN",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Centres de Recerca de Catalunya",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "G\u00f6ran Gustafssons Stiftelser",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Neubauer Family Foundation",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "T\u00fcrkiye Enerji, N\u00fckleer ve Maden Ara\u015ft\u0131rma Kurumu",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Canada Foundation for Innovation",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Leverhulme Trust",
+                "award_id": "RPG-2020-004"
+            },
+            {
+                "funder_display_name": "Royal Society",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "European Commission",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "National Research Foundation",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Helmholtz-Gemeinschaft",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Deutsche Forschungsgemeinschaft",
+                "award_id": "CR 312/5-2"
+            },
+            {
+                "funder_display_name": "Deutsche Forschungsgemeinschaft",
+                "award_id": "469666862"
+            },
+            {
+                "funder_display_name": "Deutsche Forschungsgemeinschaft",
+                "award_id": "DFG\u2013CR 312/5-1"
+            },
+            {
+                "funder_display_name": "Agence Nationale de la Recherche",
+                "award_id": "ANR-11-LABX-0012"
+            },
+            {
+                "funder_display_name": "Agence Nationale de la Recherche",
+                "award_id": "ANR-21-CE31-0022"
+            },
+            {
+                "funder_display_name": "Agence Nationale de la Recherche",
+                "award_id": "ANR-20-CE31-0013"
+            },
+            {
+                "funder_display_name": "Ministry of Education, Culture, Sports, Science and Technology",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Schweizerischer Nationalfonds zur F\u00f6rderung der Wissenschaftlichen Forschung",
+                "award_id": "PCEFP2_194658"
+            },
+            {
+                "funder_display_name": "Danmarks Grundforskningsfond",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "United States-Israel Binational Science Foundation",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Funda\u00e7\u00e3o de Amparo \u00e0 Pesquisa do Estado de S\u00e3o Paulo",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "National Natural Science Foundation of China",
+                "award_id": "12275265"
+            },
+            {
+                "funder_display_name": "National Natural Science Foundation of China",
+                "award_id": "12175119"
+            },
+            {
+                "funder_display_name": "Ministerstvo \u0160kolstv\u00ed, Ml\u00e1de\u017ee a T\u011blov\u00fdchovy",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Bundesministerium f\u00fcr Bildung und Forschung",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Chinese Academy of Sciences",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Austrian Science Fund",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Generalitat de Catalunya",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Ministry of Science and Technology of the People's Republic of China",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Federaci\u00f3n Espa\u00f1ola de Enfermedades Raras",
+                "award_id": "IDIFEDER/2018/048"
+            },
+            {
+                "funder_display_name": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek",
+                "award_id": "Veni 2020\u2013VI.Veni.202.179"
+            },
+            {
+                "funder_display_name": "Generalitat Valenciana",
+                "award_id": "CIDEGENT/2019/023"
+            },
+            {
+                "funder_display_name": "Generalitat Valenciana",
+                "award_id": "CIDEGENT/2019/027"
+            },
+            {
+                "funder_display_name": "Bundesministerium f\u00fcr Wissenschaft, Forschung und Wirtschaft",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Conselho Nacional de Desenvolvimento Cient\u00edfico e Tecnol\u00f3gico",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Israel Science Foundation",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Knut och Alice Wallenbergs Stiftelse",
+                "award_id": "KAW 2019.0447"
+            },
+            {
+                "funder_display_name": "Knut och Alice Wallenbergs Stiftelse",
+                "award_id": "KAW 2022.0358"
+            },
+            {
+                "funder_display_name": "Knut och Alice Wallenbergs Stiftelse",
+                "award_id": "KAW 2018.0157"
+            },
+            {
+                "funder_display_name": "Knut och Alice Wallenbergs Stiftelse",
+                "award_id": "KAW 2017.0100"
+            },
+            {
+                "funder_display_name": "Max-Planck-Gesellschaft",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Narodowe Centrum Nauki",
+                "award_id": "OPUS nr 2022/47/B/ST2/03059"
+            },
+            {
+                "funder_display_name": "Narodowe Centrum Nauki",
+                "award_id": "UMO-2021/40/C/ST2/00187"
+            },
+            {
+                "funder_display_name": "Narodowe Centrum Nauki",
+                "award_id": "UMO-2022/47/O/ST2/00148"
+            },
+            {
+                "funder_display_name": "Narodowe Centrum Nauki",
+                "award_id": "UMO-2019/34/E/ST2/00393"
+            },
+            {
+                "funder_display_name": "Narodowe Centrum Nauki",
+                "award_id": "2021/42/E/ST2/00350"
+            },
+            {
+                "funder_display_name": "Narodowe Centrum Nauki",
+                "award_id": "UMO-2020/37/B/ST2/01043"
+            },
+            {
+                "funder_display_name": "Javna Agencija za Raziskovalno Dejavnost RS",
+                "award_id": "J1-3010"
+            },
+            {
+                "funder_display_name": "Vetenskapsr\u00e5det",
+                "award_id": "VR 2022-03845"
+            },
+            {
+                "funder_display_name": "Centre National de la Recherche Scientifique",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Ministerio de Ciencia e Innovaci\u00f3n",
+                "award_id": "RYC2020-030254-I"
+            },
+            {
+                "funder_display_name": "Ministerio de Ciencia e Innovaci\u00f3n",
+                "award_id": "RYC2019-028510-I"
+            },
+            {
+                "funder_display_name": "Food and Health Bureau",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Norges Forskningsr\u00e5d",
+                "award_id": "RCN-314472"
+            },
+            {
+                "funder_display_name": "Centre National pour la Recherche Scientifique et Technique",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Commissariat \u00e0 l'\u00c9nergie Atomique et aux \u00c9nergies Alternatives",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Narodowa Agencja Wymiany Akademickiej",
+                "award_id": "PPN/PPO/2020/1/00002/U/00001"
+            },
+            {
+                "funder_display_name": "Institutul de Fizic\u0103 Atomic\u0103",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Agencia Nacional de Investigaci\u00f3n y Desarrollo",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Horizon 2020 Framework Programme",
+                "award_id": "MUCCA\u2013CHIST-ERA-19-XAI-00"
+            },
+            {
+                "funder_display_name": "Natural Sciences and Engineering Research Council of Canada",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "National Research Council Canada",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Science and Technology Facilities Council",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Australian Research Council",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Japan Society for the Promotion of Science",
+                "award_id": "JP22H04944"
+            },
+            {
+                "funder_display_name": "Japan Society for the Promotion of Science",
+                "award_id": "JP21H05085"
+            },
+            {
+                "funder_display_name": "Japan Society for the Promotion of Science",
+                "award_id": "22H01227"
+            },
+            {
+                "funder_display_name": "Japan Society for the Promotion of Science",
+                "award_id": "22KK0227"
+            },
+            {
+                "funder_display_name": "Funda\u00e7\u00e3o para a Ci\u00eancia e a Tecnologia",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Agencia Nacional de Promoci\u00f3n Cient\u00edfica y Tecnol\u00f3gica",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Instituto Nazionale di Fisica Nucleare",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "British Columbia Knowledge Development Fund",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "European Regional Development Fund",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Institut National de Physique Nucl\u00e9aire et de Physique des Particules",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Fondo Nacional de Desarrollo Cient\u00edfico y Tecnol\u00f3gico",
+                "award_id": "1210400"
+            },
+            {
+                "funder_display_name": "Fondo Nacional de Desarrollo Cient\u00edfico y Tecnol\u00f3gico",
+                "award_id": "1230987"
+            },
+            {
+                "funder_display_name": "Fondo Nacional de Desarrollo Cient\u00edfico y Tecnol\u00f3gico",
+                "award_id": "1190886"
+            },
+            {
+                "funder_display_name": "European Social Fund",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "Brookhaven National Laboratory",
+                "award_id": null
+            },
+            {
+                "funder_display_name": "H2020 European Research Council",
+                "award_id": "ERC 101089007"
+            },
+            {
+                "funder_display_name": "H2020 European Research Council",
+                "award_id": "ERC\u2013948254"
+            },
+            {
+                "funder_display_name": "H2020 Marie Sk\u0142odowska-Curie Actions",
+                "award_id": null
+            }
+        ]
+    },
+    {
+        "doi": "https://doi.org/10.22331/q-2024-05-27-1362",
+        "authorships": [
+            {
+                "author_position": "first",
+                "display_name": "Val\u00e9rie Bettaque",
+                "orcid": "https://orcid.org/0009-0006-9778-8341"
+            },
+            {
+                "author_position": "last",
+                "display_name": "Brian Swingle",
+                "orcid": "https://orcid.org/0000-0003-0334-3108"
+            }
+        ],
+        "primary_topic": "Quantum Many-Body Systems and Entanglement Dynamics",
+        "grants": [
+            {
+                "funder_display_name": "U.S. Department of Energy",
+                "award_id": "DESC0009986"
+            },
+            {
+                "funder_display_name": "Air Force Office of Scientific Research",
+                "award_id": "FA95501910360"
+            }
+        ]
+    },
+    {
+        "doi": "https://doi.org/10.1038/s41598-024-62158-0",
+        "authorships": [
+            {
+                "author_position": "first",
+                "display_name": "Jihoon Chung",
+                "orcid": "https://orcid.org/0000-0002-4495-5998"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Justin Li",
+                "orcid": "https://orcid.org/0000-0003-2758-5363"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Amirul Islam Saimon",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Pengyu Hong",
+                "orcid": "https://orcid.org/0000-0002-3177-2754"
+            },
+            {
+                "author_position": "last",
+                "display_name": "Zhenyu Kong",
+                "orcid": "https://orcid.org/0000-0002-8827-502X"
+            }
+        ],
+        "primary_topic": "Accelerating Materials Innovation through Informatics",
+        "grants": [
+            {
+                "funder_display_name": "National Science Foundation",
+                "award_id": "DMR-1933525"
+            }
+        ]
+    },
+    {
+        "doi": "https://doi.org/10.1126/sciadv.adj8769",
+        "authorships": [
+            {
+                "author_position": "first",
+                "display_name": "Sebasti\u00e1n A. Giusti",
+                "orcid": "https://orcid.org/0000-0002-0257-3027"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Natalia S. Pino",
+                "orcid": "https://orcid.org/0009-0001-6984-1751"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Camila Pannunzio",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Mora B. Ogando",
+                "orcid": "https://orcid.org/0000-0002-1453-2628"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Natalia G. Armando",
+                "orcid": "https://orcid.org/0000-0003-1379-4025"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Lillian Garrett",
+                "orcid": "https://orcid.org/0000-0003-4880-7076"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Annemarie Zimprich",
+                "orcid": "https://orcid.org/0000-0003-2078-6779"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Lore Becker",
+                "orcid": "https://orcid.org/0000-0002-6890-4984"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Margarita Gimeno",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Jer\u00f3nimo Lukin",
+                "orcid": "https://orcid.org/0000-0002-2284-7152"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Florencia Merino",
+                "orcid": "https://orcid.org/0000-0001-7247-2750"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "M. Bel\u00e9n Pardi",
+                "orcid": "https://orcid.org/0000-0003-1942-7533"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Olivia Pedroncini",
+                "orcid": "https://orcid.org/0009-0009-0613-4126"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "G Mauro",
+                "orcid": "https://orcid.org/0000-0001-5685-090X"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Valerie Gailus Durner",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Helmut Fuchs",
+                "orcid": "https://orcid.org/0000-0002-5143-2677"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Martin Hrab\u011b de Angelis",
+                "orcid": "https://orcid.org/0000-0002-7898-2353"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "In\u00e9s Luc\u00eda Patop",
+                "orcid": "https://orcid.org/0000-0002-2929-0860"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Christoph W. Turck",
+                "orcid": "https://orcid.org/0000-0002-6585-8636"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Jan M. Deussing",
+                "orcid": "https://orcid.org/0000-0002-9329-5252"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Daniela M. Vogt Weisenhorn",
+                "orcid": "https://orcid.org/0000-0002-4566-6506"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Olaf Jahn",
+                "orcid": "https://orcid.org/0000-0002-3397-8924"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Sebasti\u00e1n Kadener",
+                "orcid": "https://orcid.org/0000-0003-0080-5987"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Sabine M. H\u00f6lter",
+                "orcid": "https://orcid.org/0000-0003-4878-5241"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Nils Brose",
+                "orcid": "https://orcid.org/0000-0003-0938-8534"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Florian Giesert",
+                "orcid": "https://orcid.org/0000-0001-6825-8858"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Wolfgang Wurst",
+                "orcid": "https://orcid.org/0000-0003-4422-7410"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Antonia Mar\u00edn\u2010Burgin",
+                "orcid": "https://orcid.org/0000-0003-0684-9796"
+            },
+            {
+                "author_position": "last",
+                "display_name": "Dami\u00e1n Refojo",
+                "orcid": "https://orcid.org/0000-0002-9798-6413"
+            }
+        ],
+        "primary_topic": "Biogenesis and Functions of Circular RNAs",
+        "grants": []
+    },
+    {
+        "doi": "https://doi.org/10.1112/jlms.12916",
+        "authorships": [
+            {
+                "author_position": "first",
+                "display_name": "Carolyn R. Abbott",
+                "orcid": "https://orcid.org/0000-0001-5899-2661"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Sahana Balasubramanya",
+                "orcid": null
+            },
+            {
+                "author_position": "last",
+                "display_name": "Alexander J. Rasmussen",
+                "orcid": null
+            }
+        ],
+        "primary_topic": "Symplectic Topology and Knot Invariants",
+        "grants": [
+            {
+                "funder_display_name": "National Science Foundation",
+                "award_id": "DMS\u20102106906"
+            },
+            {
+                "funder_display_name": "National Science Foundation",
+                "award_id": "DMS\u20101840190"
+            },
+            {
+                "funder_display_name": "National Science Foundation",
+                "award_id": "DMS\u20101803368"
+            },
+            {
+                "funder_display_name": "National Science Foundation",
+                "award_id": "DMS\u20102202986"
+            },
+            {
+                "funder_display_name": "Deutsche Forschungsgemeinschaft",
+                "award_id": "427320536 \u2013 SFB 1442"
+            }
+        ]
+    },
+    {
+        "doi": "https://doi.org/10.1073/pnas.2319249121",
+        "authorships": [
+            {
+                "author_position": "first",
+                "display_name": "David Wang",
+                "orcid": "https://orcid.org/0000-0002-8074-9884"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Layne B. Frechette",
+                "orcid": null
+            },
+            {
+                "author_position": "last",
+                "display_name": "Robert B. Best",
+                "orcid": "https://orcid.org/0000-0002-7893-3543"
+            }
+        ],
+        "primary_topic": "Protein Structure Prediction and Analysis",
+        "grants": [
+            {
+                "funder_display_name": "National Institute of Diabetes and Digestive and Kidney Diseases",
+                "award_id": "ZIA DK075104"
+            }
+        ]
+    },
+    {
+        "doi": "https://doi.org/10.1523/eneuro.0366-23.2024",
+        "authorships": [
+            {
+                "author_position": "first",
+                "display_name": "Derek L. Wise",
+                "orcid": "https://orcid.org/0000-0003-0694-0186"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Yasmin Escobedo-Lozoya",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Vera Valakh",
+                "orcid": "https://orcid.org/0000-0001-7149-1562"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Emma Y. Gao",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Aishwarya Bhonsle",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Qian L. Lei",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Xinyu Cheng",
+                "orcid": "https://orcid.org/0009-0000-8535-3179"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Samuel B. Greene",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Stephen D. Van Hooser",
+                "orcid": "https://orcid.org/0000-0002-1112-5832"
+            },
+            {
+                "author_position": "last",
+                "display_name": "Sacha B. Nelson",
+                "orcid": "https://orcid.org/0000-0002-0108-8599"
+            }
+        ],
+        "primary_topic": "Molecular Mechanisms of Synaptic Plasticity and Neurological Disorders",
+        "grants": [
+            {
+                "funder_display_name": "National Institute of Neurological Disorders and Stroke",
+                "award_id": "R01 NS109916"
+            }
+        ]
+    },
+    {
+        "doi": "https://doi.org/10.1113/jp284739",
+        "authorships": [
+            {
+                "author_position": "first",
+                "display_name": "Beth A. Habecker",
+                "orcid": "https://orcid.org/0000-0002-4658-8730"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Donald M. Bers",
+                "orcid": "https://orcid.org/0000-0002-2237-9483"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Susan J. Birren",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Rui B. Chang",
+                "orcid": "https://orcid.org/0000-0001-6953-2943"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Neil Herring",
+                "orcid": "https://orcid.org/0000-0001-8453-6133"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Matthew W. Kay",
+                "orcid": "https://orcid.org/0000-0003-2756-5055"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Dan Li",
+                "orcid": "https://orcid.org/0000-0003-2230-9300"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "David Mendelowitz",
+                "orcid": "https://orcid.org/0000-0001-7107-1832"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Marco Mongillo",
+                "orcid": "https://orcid.org/0000-0002-1102-8709"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Johanna M. Montgomery",
+                "orcid": "https://orcid.org/0000-0002-8714-7456"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Crystal M. Ripplinger",
+                "orcid": "https://orcid.org/0000-0002-9908-4106"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Emmanouil Tampakakis",
+                "orcid": "https://orcid.org/0000-0003-3143-6459"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Annika Winbo",
+                "orcid": "https://orcid.org/0000-0002-9323-3166"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Tania Zaglia",
+                "orcid": null
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Nadja Zeltner",
+                "orcid": "https://orcid.org/0000-0001-7892-7154"
+            },
+            {
+                "author_position": "last",
+                "display_name": "David J. Paterson",
+                "orcid": "https://orcid.org/0000-0002-7399-3256"
+            }
+        ],
+        "primary_topic": "Molecular Mechanisms of Cardiac Arrhythmias",
+        "grants": [
+            {
+                "funder_display_name": "National Heart Foundation of New Zealand",
+                "award_id": "1887"
+            }
+        ]
+    },
+    {
+        "doi": "https://doi.org/10.1093/oxfordhb/9780190062767.013.67",
+        "authorships": [
+            {
+                "author_position": "first",
+                "display_name": "Chad Williams",
+                "orcid": null
+            }
+        ],
+        "primary_topic": "Global Impact of World Wars and International Relations",
+        "grants": []
+    },
+    {
+        "doi": "https://doi.org/10.3389/fpubh.2024.1422873",
+        "authorships": [
+            {
+                "author_position": "first",
+                "display_name": "Ayan Jha",
+                "orcid": "https://orcid.org/0000-0001-9185-2249"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Wu Zeng",
+                "orcid": "https://orcid.org/0000-0002-3473-3638"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Marwa Farag",
+                "orcid": "https://orcid.org/0000-0003-4577-3384"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "A Nandakumar",
+                "orcid": "https://orcid.org/0000-0002-0976-9313"
+            },
+            {
+                "author_position": "last",
+                "display_name": "Eduardo Gonz\u00e1lez-Pier",
+                "orcid": "https://orcid.org/0000-0002-2968-7219"
+            }
+        ],
+        "primary_topic": "Financing of Health Care Systems and Universal Coverage",
+        "grants": []
+    },
+    {
+        "doi": "https://doi.org/10.25259/ijma_10_2024",
+        "authorships": [
+            {
+                "author_position": "first",
+                "display_name": "Gopal K. Singh",
+                "orcid": "https://orcid.org/0000-0001-8282-4959"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Hyunjung Lee",
+                "orcid": "https://orcid.org/0000-0003-0783-5484"
+            },
+            {
+                "author_position": "middle",
+                "display_name": "Lyoung Hee Kim",
+                "orcid": "https://orcid.org/0000-0002-4602-7079"
+            },
+            {
+                "author_position": "last",
+                "display_name": "Sandra L. Williams",
+                "orcid": "https://orcid.org/0000-0002-2644-9952"
+            }
+        ],
+        "primary_topic": "Impact of Food Insecurity on Health Outcomes",
+        "grants": []
+    }
+]
