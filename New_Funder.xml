@@ -1,14 +1,14 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <organization_units>
   <unit>
     <unitData>
       <organizationCode>01ar8dr59</organizationCode>
       <organizationName>Division of Chemistry</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Arlington</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -17,11 +17,11 @@
     <unitData>
       <organizationCode>04htnem03</organizationCode>
       <organizationName>Türkiye Enerji, Nükleer ve Maden Araştırma Kurumu</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Ankara</city>
-          <country>Türkiye</country>
+          <country>TUR</country>
         </addressDataList>
       </data>
     </unitData>
@@ -30,11 +30,11 @@
     <unitData>
       <organizationCode>037n8p820</organizationCode>
       <organizationName>Ministerstvo Školství, Mládeže a Tělovýchovy</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Prague</city>
-          <country>Czechia</country>
+          <country>CZE</country>
         </addressDataList>
       </data>
     </unitData>
@@ -43,11 +43,11 @@
     <unitData>
       <organizationCode>01pv73b02</organizationCode>
       <organizationName>Grantová Agentura České Republiky</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Prague</city>
-          <country>Czechia</country>
+          <country>CZE</country>
         </addressDataList>
       </data>
     </unitData>
@@ -56,11 +56,11 @@
     <unitData>
       <organizationCode>0341vw408</organizationCode>
       <organizationName>Ministero dell’Istruzione, dell’Università e della Ricerca</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Rome</city>
-          <country>Italy</country>
+          <country>ITA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -69,11 +69,11 @@
     <unitData>
       <organizationCode>04yeh8h63</organizationCode>
       <organizationName>General Secretariat for Research and Technology</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Athens</city>
-          <country>Greece</country>
+          <country>GRC</country>
         </addressDataList>
       </data>
     </unitData>
@@ -82,11 +82,11 @@
     <unitData>
       <organizationCode>05dwvd537</organizationCode>
       <organizationName>Ministerstwo Edukacji i Nauki</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Warsaw</city>
-          <country>Poland</country>
+          <country>POL</country>
         </addressDataList>
       </data>
     </unitData>
@@ -95,11 +95,11 @@
     <unitData>
       <organizationCode>044tecp05</organizationCode>
       <organizationName>Institutul de Fizică Atomică</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Măgurele</city>
-          <country>Romania</country>
+          <country>ROU</country>
         </addressDataList>
       </data>
     </unitData>
@@ -108,11 +108,11 @@
     <unitData>
       <organizationCode>00bgchx11</organizationCode>
       <organizationName>Blue Cross Blue Shield of Massachusetts Foundation</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Boston</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -121,11 +121,11 @@
     <unitData>
       <organizationCode>04pw6fb54</organizationCode>
       <organizationName>National Center for Advancing Translational Sciences</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Rockville</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -134,11 +134,11 @@
     <unitData>
       <organizationCode>05m1gnk07</organizationCode>
       <organizationName>Korea University</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Tokyo</city>
-          <country>Japan</country>
+          <country>JPN</country>
         </addressDataList>
       </data>
     </unitData>
@@ -147,11 +147,11 @@
     <unitData>
       <organizationCode>013aysd81</organizationCode>
       <organizationName>National Research Foundation of Korea</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Daejeon</city>
-          <country>South Korea</country>
+          <country>KOR</country>
         </addressDataList>
       </data>
     </unitData>
@@ -160,11 +160,11 @@
     <unitData>
       <organizationCode>0472cxd90</organizationCode>
       <organizationName>European Research Council</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Brussels</city>
-          <country>Belgium</country>
+          <country>BEL</country>
         </addressDataList>
       </data>
     </unitData>
@@ -173,11 +173,11 @@
     <unitData>
       <organizationCode>01pc7k308</organizationCode>
       <organizationName>Division of Materials Research</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Arlington</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -186,11 +186,11 @@
     <unitData>
       <organizationCode>01mng8331</organizationCode>
       <organizationName>Division of Computing and Communication Foundations</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Arlington</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -199,11 +199,11 @@
     <unitData>
       <organizationCode>01krpsy48</organizationCode>
       <organizationName>Division of Electrical, Communications and Cyber Systems</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Arlington</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -212,11 +212,11 @@
     <unitData>
       <organizationCode>04ydcpm48</organizationCode>
       <organizationName>Ministry of Sports and Education</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Tirana</city>
-          <country>Albania</country>
+          <country>ALB</country>
         </addressDataList>
       </data>
     </unitData>
@@ -225,11 +225,11 @@
     <unitData>
       <organizationCode>05abbep66</organizationCode>
       <organizationName>Brandeis University</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Waltham</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -238,11 +238,11 @@
     <unitData>
       <organizationCode>04jsh2530</organizationCode>
       <organizationName>Andrew W. Mellon Foundation</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>New York</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -251,11 +251,11 @@
     <unitData>
       <organizationCode>01r1e1h27</organizationCode>
       <organizationName>London Mathematical Society</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>London</city>
-          <country>United Kingdom</country>
+          <country>GBR</country>
         </addressDataList>
       </data>
     </unitData>
@@ -264,11 +264,11 @@
     <unitData>
       <organizationCode>0439y7842</organizationCode>
       <organizationName>Engineering and Physical Sciences Research Council</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Swindon</city>
-          <country>United Kingdom</country>
+          <country>GBR</country>
         </addressDataList>
       </data>
     </unitData>
@@ -277,11 +277,11 @@
     <unitData>
       <organizationCode>05072yv34</organizationCode>
       <organizationName>Swedish Cancer Foundation</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Stockholm</city>
-          <country>Sweden</country>
+          <country>SWE</country>
         </addressDataList>
       </data>
     </unitData>
@@ -290,11 +290,11 @@
     <unitData>
       <organizationCode>014btj409</organizationCode>
       <organizationName>Hjärnfonden</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Stockholm</city>
-          <country>Sweden</country>
+          <country>SWE</country>
         </addressDataList>
       </data>
     </unitData>
@@ -303,11 +303,11 @@
     <unitData>
       <organizationCode>05r5c7c30</organizationCode>
       <organizationName>National Institute on Disability, Independent Living, and Rehabilitation Research</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Washington</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -316,11 +316,11 @@
     <unitData>
       <organizationCode>04byxyr05</organizationCode>
       <organizationName>Eunice Kennedy Shriver National Institute of Child Health and Human Development</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Bethesda</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -329,11 +329,11 @@
     <unitData>
       <organizationCode>04t0s7x83</organizationCode>
       <organizationName>National Institute of Mental Health</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Tokyo</city>
-          <country>Japan</country>
+          <country>JPN</country>
         </addressDataList>
       </data>
     </unitData>
@@ -342,11 +342,11 @@
     <unitData>
       <organizationCode>05hp77p11</organizationCode>
       <organizationName>Türkiye Atom Enerjisi Kurumu</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Ankara</city>
-          <country>Türkiye</country>
+          <country>TUR</country>
         </addressDataList>
       </data>
     </unitData>
@@ -355,11 +355,11 @@
     <unitData>
       <organizationCode>006m4q736</organizationCode>
       <organizationName>Azərbaycan Milli Elmlər Akademiyası</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Baku</city>
-          <country>Azerbaijan</country>
+          <country>AZE</country>
         </addressDataList>
       </data>
     </unitData>
@@ -368,11 +368,11 @@
     <unitData>
       <organizationCode>026ma2c10</organizationCode>
       <organizationName>Services Fédéraux des Affaires Scientifiques, Techniques et Culturelles</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Le Barp</city>
-          <country>France</country>
+          <country>FRA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -381,11 +381,11 @@
     <unitData>
       <organizationCode>00dnfnh90</organizationCode>
       <organizationName>Enhancing Learning and Research for Humanitarian Assistance</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Cardiff</city>
-          <country>United Kingdom</country>
+          <country>GBR</country>
         </addressDataList>
       </data>
     </unitData>
@@ -394,11 +394,11 @@
     <unitData>
       <organizationCode>051777d98</organizationCode>
       <organizationName>United Nations Development Programme</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>New York</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -407,11 +407,11 @@
     <unitData>
       <organizationCode>02b207r52</organizationCode>
       <organizationName>Department of Science and Technology, Ministry of Science and Technology, India</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Hanoi</city>
-          <country>Vietnam</country>
+          <country>VNM</country>
         </addressDataList>
       </data>
     </unitData>
@@ -420,11 +420,11 @@
     <unitData>
       <organizationCode>02m388s04</organizationCode>
       <organizationName>Department of Atomic Energy, Government of India</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Mumbai</city>
-          <country>India</country>
+          <country>IND</country>
         </addressDataList>
       </data>
     </unitData>
@@ -433,11 +433,11 @@
     <unitData>
       <organizationCode>03ffdsr55</organizationCode>
       <organizationName>Science and Engineering Research Board</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>New Delhi</city>
-          <country>India</country>
+          <country>IND</country>
         </addressDataList>
       </data>
     </unitData>
@@ -446,11 +446,11 @@
     <unitData>
       <organizationCode>00190t495</organizationCode>
       <organizationName>National Center for Complementary and Integrative Health</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Bethesda</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -459,11 +459,11 @@
     <unitData>
       <organizationCode>043z4tv69</organizationCode>
       <organizationName>National Institute of Allergy and Infectious Diseases</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Bethesda</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -472,11 +472,11 @@
     <unitData>
       <organizationCode>02r8tn769</organizationCode>
       <organizationName>Asia-Pacific Network for Global Change Research</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Kobe</city>
-          <country>Japan</country>
+          <country>JPN</country>
         </addressDataList>
       </data>
     </unitData>
@@ -485,11 +485,11 @@
     <unitData>
       <organizationCode>05qm21180</organizationCode>
       <organizationName>Basic and Applied Basic Research Foundation of Guangdong Province</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Beijing</city>
-          <country>China</country>
+          <country>CHN</country>
         </addressDataList>
       </data>
     </unitData>
@@ -498,24 +498,24 @@
     <unitData>
       <organizationCode>0083hz885</organizationCode>
       <organizationName>Health Services Research and Development</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Washington</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
   </unit>
   <unit>
     <unitData>
-      <organizationCode>02t771148</organizationCode>
+      <organizationCode>044ybef51</organizationCode>
       <organizationName>National Cancer Institute</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
-          <city>Kyiv</city>
-          <country>Ukraine</country>
+          <city>Putrajaya</city>
+          <country>MYS</country>
         </addressDataList>
       </data>
     </unitData>
@@ -524,11 +524,11 @@
     <unitData>
       <organizationCode>01mxx0e62</organizationCode>
       <organizationName>Trường Đại học Y Hà Nội</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Hanoi</city>
-          <country>Vietnam</country>
+          <country>VNM</country>
         </addressDataList>
       </data>
     </unitData>
@@ -537,11 +537,11 @@
     <unitData>
       <organizationCode>04mhx6838</organizationCode>
       <organizationName>National Institute on Deafness and Other Communication Disorders</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Bethesda</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -550,11 +550,11 @@
     <unitData>
       <organizationCode>05rsv9s98</organizationCode>
       <organizationName>U.S. Department of Veterans Affairs</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Washington</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -563,11 +563,11 @@
     <unitData>
       <organizationCode>053z7dx55</organizationCode>
       <organizationName>Maternal and Child Health Bureau</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Charleston</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -576,11 +576,11 @@
     <unitData>
       <organizationCode>045016w83</organizationCode>
       <organizationName>Norges Idrettshøgskole</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Oslo</city>
-          <country>Norway</country>
+          <country>NOR</country>
         </addressDataList>
       </data>
     </unitData>
@@ -589,11 +589,11 @@
     <unitData>
       <organizationCode>01bj3aw27</organizationCode>
       <organizationName>U.S. Department of State</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Washington</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -602,11 +602,11 @@
     <unitData>
       <organizationCode>00m3wrz48</organizationCode>
       <organizationName>United States Institute of Peace</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Washington</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -615,24 +615,24 @@
     <unitData>
       <organizationCode>02ezy5072</organizationCode>
       <organizationName>Amgen</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Munich</city>
-          <country>Germany</country>
+          <country>DEU</country>
         </addressDataList>
       </data>
     </unitData>
   </unit>
   <unit>
     <unitData>
-      <organizationCode>04n8fbz89</organizationCode>
+      <organizationCode>04wwrrg31</organizationCode>
       <organizationName>AstraZeneca</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
-          <city>Mississauga</city>
-          <country>Canada</country>
+          <city>Södertälje</city>
+          <country>SWE</country>
         </addressDataList>
       </data>
     </unitData>
@@ -641,11 +641,11 @@
     <unitData>
       <organizationCode>0292awh62</organizationCode>
       <organizationName>Merck</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Tokyo</city>
-          <country>Japan</country>
+          <country>JPN</country>
         </addressDataList>
       </data>
     </unitData>
@@ -654,11 +654,11 @@
     <unitData>
       <organizationCode>00v8p7w89</organizationCode>
       <organizationName>National Institute of Justice</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Washington</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -667,11 +667,11 @@
     <unitData>
       <organizationCode>03eg83y24</organizationCode>
       <organizationName>U.S. Geological Survey</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Hawai‘i Volcanoes National Park</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -680,11 +680,11 @@
     <unitData>
       <organizationCode>024mw5h28</organizationCode>
       <organizationName>University of Chicago</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Chicago</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -693,11 +693,11 @@
     <unitData>
       <organizationCode>00jmfr291</organizationCode>
       <organizationName>University of Michigan</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Ann Arbor</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -706,11 +706,11 @@
     <unitData>
       <organizationCode>05e94g991</organizationCode>
       <organizationName>University of Illinois System</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Urbana</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -719,11 +719,11 @@
     <unitData>
       <organizationCode>00335tx14</organizationCode>
       <organizationName>North Carolina Stroke Association</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Raleigh</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -732,11 +732,11 @@
     <unitData>
       <organizationCode>056y81r79</organizationCode>
       <organizationName>Higher Education Funding Council for England</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Cardiff</city>
-          <country>United Kingdom</country>
+          <country>GBR</country>
         </addressDataList>
       </data>
     </unitData>
@@ -745,11 +745,11 @@
     <unitData>
       <organizationCode>035rrps97</organizationCode>
       <organizationName>National Research Council</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Bucharest</city>
-          <country>Romania</country>
+          <country>ROU</country>
         </addressDataList>
       </data>
     </unitData>
@@ -758,11 +758,11 @@
     <unitData>
       <organizationCode>013meh722</organizationCode>
       <organizationName>University of Cambridge</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Cambridge</city>
-          <country>United Kingdom</country>
+          <country>GBR</country>
         </addressDataList>
       </data>
     </unitData>
@@ -771,11 +771,11 @@
     <unitData>
       <organizationCode>02jx3x895</organizationCode>
       <organizationName>University College London</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>London</city>
-          <country>United Kingdom</country>
+          <country>GBR</country>
         </addressDataList>
       </data>
     </unitData>
@@ -784,11 +784,11 @@
     <unitData>
       <organizationCode>01ccvt456</organizationCode>
       <organizationName>Ministerio de Economía y Competitividad</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Madrid</city>
-          <country>Spain</country>
+          <country>ESP</country>
         </addressDataList>
       </data>
     </unitData>
@@ -797,11 +797,11 @@
     <unitData>
       <organizationCode>04q48ey07</organizationCode>
       <organizationName>National Institute of General Medical Sciences</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Bethesda</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -810,11 +810,11 @@
     <unitData>
       <organizationCode>02h503d38</organizationCode>
       <organizationName>Departamento Administrativo de Ciencia, Tecnología e Innovación (COLCIENCIAS)</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Buenos Aires</city>
-          <country>Argentina</country>
+          <country>ARG</country>
         </addressDataList>
       </data>
     </unitData>
@@ -823,11 +823,11 @@
     <unitData>
       <organizationCode>02regzg56</organizationCode>
       <organizationName>Natur og Univers, Det Frie Forskningsråd</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Odense</city>
-          <country>Denmark</country>
+          <country>DNK</country>
         </addressDataList>
       </data>
     </unitData>
@@ -836,11 +836,11 @@
     <unitData>
       <organizationCode>04esata81</organizationCode>
       <organizationName>European Science Foundation</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Strasbourg</city>
-          <country>France</country>
+          <country>FRA</country>
         </addressDataList>
       </data>
     </unitData>
@@ -849,11 +849,11 @@
     <unitData>
       <organizationCode>02qsf1r97</organizationCode>
       <organizationName>Department of Science and Technology, Republic of South Africa</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Pretoria</city>
-          <country>South Africa</country>
+          <country>ZAF</country>
         </addressDataList>
       </data>
     </unitData>
@@ -862,11 +862,11 @@
     <unitData>
       <organizationCode>00djwmt25</organizationCode>
       <organizationName>Research Grants Council, University Grants Committee</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Hong Kong</city>
-          <country>Hong Kong</country>
+          <country>HKG</country>
         </addressDataList>
       </data>
     </unitData>
@@ -875,11 +875,11 @@
     <unitData>
       <organizationCode>044gwpv05</organizationCode>
       <organizationName>Ministerstvo školstva, vedy, výskumu a športu Slovenskej republiky</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Bratislava</city>
-          <country>Slovakia</country>
+          <country>SVK</country>
         </addressDataList>
       </data>
     </unitData>
@@ -888,11 +888,11 @@
     <unitData>
       <organizationCode>00ghqgy32</organizationCode>
       <organizationName>Ministry of Education and Science of the Russian Federation</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Moscow</city>
-          <country>Russia</country>
+          <country>RUS</country>
         </addressDataList>
       </data>
     </unitData>
@@ -901,11 +901,11 @@
     <unitData>
       <organizationCode>044yd9t77</organizationCode>
       <organizationName>Joint Institute for Nuclear Research</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Dubna</city>
-          <country>Russia</country>
+          <country>RUS</country>
         </addressDataList>
       </data>
     </unitData>
@@ -914,11 +914,11 @@
     <unitData>
       <organizationCode>03tqbke55</organizationCode>
       <organizationName>Ministarstvo Prosvete, Nauke i Tehnološkog Razvoja</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Banja Luka</city>
-          <country>Bosnia and Herzegovina</country>
+          <country>BIH</country>
         </addressDataList>
       </data>
     </unitData>
@@ -927,11 +927,11 @@
     <unitData>
       <organizationCode>03j4eb467</organizationCode>
       <organizationName>Ministerstvo Průmyslu a Obchodu</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Prague</city>
-          <country>Czechia</country>
+          <country>CZE</country>
         </addressDataList>
       </data>
     </unitData>
@@ -940,11 +940,11 @@
     <unitData>
       <organizationCode>00xc87681</organizationCode>
       <organizationName>Shota Rustaveli National Science Foundation</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Tbilisi</city>
-          <country>Georgia</country>
+          <country>GEO</country>
         </addressDataList>
       </data>
     </unitData>
@@ -953,11 +953,11 @@
     <unitData>
       <organizationCode>05tahaz79</organizationCode>
       <organizationName>Ministrstvo za Izobraževanje, Znanost in Šport</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Ljubljana</city>
-          <country>Slovenia</country>
+          <country>SVN</country>
         </addressDataList>
       </data>
     </unitData>
@@ -966,11 +966,11 @@
     <unitData>
       <organizationCode>006j36p28</organizationCode>
       <organizationName>Comisión Nacional de Investigación Científica y Tecnológica</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Buenos Aires</city>
-          <country>Argentina</country>
+          <country>ARG</country>
         </addressDataList>
       </data>
     </unitData>
@@ -979,11 +979,11 @@
     <unitData>
       <organizationCode>05mg91w61</organizationCode>
       <organizationName>Basic Energy Sciences</organizationName>
-      <organizationType>funder</organizationType>
+      <organizationType>FUNDER</organizationType>
       <data>
         <addressDataList>
           <city>Washington</city>
-          <country>United States</country>
+          <country>USA</country>
         </addressDataList>
       </data>
     </unitData>

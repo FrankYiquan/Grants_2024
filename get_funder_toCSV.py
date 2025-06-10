@@ -12,6 +12,8 @@ import uuid
 import xml.etree.ElementTree as ET
 import os
 import xml.dom.minidom
+import csv
+
 
 
 
@@ -24,6 +26,8 @@ def remove_extra_blank_lines(xml_str):
     # keep only lines that are not empty or just whitespace
     lines = [line for line in xml_str.splitlines() if line.strip() != '']
     return "\n".join(lines)
+
+
 
 # Input file names (this is only for Brandeis 2024)
 
@@ -41,6 +45,14 @@ if os.path.exists(xml_file):
 else:
     xml_root = ET.Element("organization_units")
     tree = ET.ElementTree(xml_root)
+
+#create a dictionary to store funder names and their codes
+country_name_to_alpha3 = {}
+with open("CountryCode.csv", newline='', encoding='utf-8') as csvfile:
+    reader = csv.DictReader(csvfile)
+    for row in reader:
+        # Assuming the CSV has columns: 'name' and 'alpha-3'
+        country_name_to_alpha3[row['name'].strip().lower()] = row['alpha-3'].strip()
 
 
 # get article from OpenAlex API
@@ -111,11 +123,14 @@ if not unmatched_funders_df.empty:
         element = ET.SubElement(sub_root, "unitData")
         ET.SubElement(element, "organizationCode").text = funder_id
         ET.SubElement(element, "organizationName").text = funder_name
-        ET.SubElement(element, "organizationType").text = "funder"
+        ET.SubElement(element, "organizationType").text = "Funder"
         data = ET.SubElement(element, "data")
         location = ET.SubElement(data, "addressDataList")
         ET.SubElement(location, "city").text = ror_data['items'][0]['addresses'][0]['geonames_city']['city']
-        ET.SubElement(location, "country").text = country_name = ror_data['items'][0]['country']['country_name']
+
+        country_name = ror_data['items'][0]['country']['country_name'].strip().lower()
+        alpha3_code = country_name_to_alpha3.get(country_name, "UNK") 
+        ET.SubElement(location, "country").text =  alpha3_code
 
     #append unmatched funders to data/funder_info.csv
     updated_funders_df = pd.concat([existing_funders_df, unmatched_funders_df], ignore_index=True)

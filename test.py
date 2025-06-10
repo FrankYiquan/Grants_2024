@@ -1,13 +1,12 @@
-import re 
+import xml.etree.ElementTree as ET
 
-def reformat_award_id(award_id):
-    if not isinstance(award_id, str):
-        return None
-    match = re.search(r'\d+', award_id)
-    if match:
-        return match.group(0) 
-    else:
-        return None  
-    
+# Load the XML file
+tree = ET.parse('New_Funder.xml')
+root = tree.getroot()
 
-print(reformat_award_id("IDIFEDER/2018/048"))  # Should print '1234567'
+# Iterate over all organizationType elements
+for org_type in root.findall('.//organizationType'):
+    org_type.text = 'FUNDER'
+
+# Overwrite the original file
+tree.write('New_Funder.xml', encoding='utf-8', xml_declaration=True)
