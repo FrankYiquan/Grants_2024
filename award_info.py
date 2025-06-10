@@ -1,4 +1,5 @@
-
+# This script filters a JSON dataset to include only grants 
+# with a specific funder_display_name (in this case, National Science Foundation).
 import json
 
 def filter_funder_display_name(data, target_name):

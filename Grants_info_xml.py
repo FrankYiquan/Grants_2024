@@ -9,6 +9,8 @@ import pandas as pd
 from get_data import get_data_openAlex
 
 # Function to get data from json  data file get from openAlex
+#data: open alex data, which is stored in brandeis_2024.json
+# funder_info: funder name + ID
 def extract_information(data, funder_info):
     extracted_data = []
     
@@ -18,6 +20,7 @@ def extract_information(data, funder_info):
         investigator_info = None
 
         # Loop through each investigator in the result
+        # for each author(investigator) in author listst, get their info and 
         for investigator in result.get('authorships', []):
             position = investigator.get('author_position', '')
             author = investigator.get('author', '')
@@ -39,6 +42,12 @@ def extract_information(data, funder_info):
         # Loop through each grant in the result
         for grant in result.get('grants', []):
             funder_display_name = grant.get('funder_display_name', '')
+
+             # Skip grants from CERN if CERN is one of the funders among the grants
+            if funder_display_name == "CERN":
+                grants = []  # Clear the grants list if CERN is found
+                break 
+
             if funder_display_name in funder_info:
                 award_id = grant.get('award_id', '')
                 if isinstance(award_id, int):
@@ -261,3 +270,6 @@ with open(output_file_name, 'w', encoding='utf-8') as output_file:
     output_file.write(pretty_xml)
 
 print(f"XML data successfully written to {output_file_name}")
+
+
+# 1) get data from openAlex API

@@ -1,3 +1,5 @@
+#this script is to get data from OpenAlex API for Brandeis University grants
+
 import requests
 import json
 
@@ -26,4 +28,11 @@ class get_data_openAlex:
 
         with open(self.file_name, 'w') as json_file:
             json.dump(all_results, json_file, indent=4)
+
+# if __name__ == "__main__":
+#     base_url = 'https://api.openalex.org/works?filter=institutions.id:https://openalex.org/I6902469,publication_year:2024&sort=publication_date:desc'
+#     file_name = 'brandeis_2024.json'
+
+#     fetcher = get_data_openAlex(base_url, file_name)
+#     fetcher.get_data_openAlex()
 
