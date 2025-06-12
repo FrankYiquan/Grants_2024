@@ -31,7 +31,7 @@ def remove_extra_blank_lines(xml_str):
 
 # Input file names (this is only for Brandeis 2024)
 
-year = 2018
+year = 2024
 input_file_name = 'brandeis_2024.json' #this can use to store any year (other than 2024), 2024 is just kepet for previous code.
 base_url = f'https://api.openalex.org/works?filter=institutions.id:https://openalex.org/I6902469,publication_year:{year}&sort=publication_date:desc'
 
@@ -67,12 +67,14 @@ with open(input_file_name, 'r') as json_file:
 existing_funders_df = pd.read_csv(csv_file_name)
 existing_funders = existing_funders_df['Funder_display_name'].tolist() #give a list of exiting funder names pulled from ScholarWork records
 
-# Extract funder names from JSON
+# Extract funder names from brandeis_2024.json
 funder_data = []
 for item in data:
     for grant in item.get('grants', []):
         funder_name = grant.get('funder_display_name', '')
-        if funder_name:
+        award_id = grant.get('award_id', '')
+        # new funder only added if funder_name and awawrd_id not empty and funder_name is not "CERN"
+        if funder_name and funder_name != "CERN" and award_id:
             funder_data.append(funder_name)
 
 # Create DataFrame of unique funder names from JSON

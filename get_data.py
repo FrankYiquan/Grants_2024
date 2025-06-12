@@ -2,6 +2,7 @@
 
 import requests
 import json
+import math
 
 class get_data_openAlex:
 #Brandeis institution id: i6902469
@@ -17,22 +18,39 @@ class get_data_openAlex:
 #base_url = 'https://api.openalex.org/works?filter=institutions.id:https://openalex.org/I6902469,publication_year:2023&sort=publication_date:desc'
     def get_data_openAlex(self):
         all_results = []
-        api_url = self.base_url
-        response = requests.get(api_url)
-    
-        if response.status_code == 200:
+        base_url = self.base_url  # without page parameter
+        per_page = 25  # as indicated by your meta
+        page = 1
+
+        # First request to get count and per_page
+        response = requests.get(f"{base_url}&page={page}")
+        if response.status_code != 200:
+            print(f"Failed to fetch data. Status code: {response.status_code}")
+            return
+        
+        data = response.json()
+        all_results.extend(data.get('results', []))
+
+        count = data.get('meta', {}).get('count', 0)
+        per_page = data.get('meta', {}).get('per_page', 25)
+        total_pages = math.ceil(count / per_page)
+
+        # Fetch rest of the pages
+        for page in range(2, total_pages + 1):
+            response = requests.get(f"{base_url}&page={page}")
+            if response.status_code != 200:
+                print(f"Failed to fetch page {page}. Status code: {response.status_code}")
+                break
             data = response.json()
             all_results.extend(data.get('results', []))
-        else:
-            print(f"Failed to fetch data. Status code: {response.status_code}")
 
         with open(self.file_name, 'w') as json_file:
             json.dump(all_results, json_file, indent=4)
 
-# if __name__ == "__main__":
-#     base_url = 'https://api.openalex.org/works?filter=institutions.id:https://openalex.org/I6902469,publication_year:2024&sort=publication_date:desc'
-#     file_name = 'brandeis_2024.json'
+if __name__ == "__main__":
+    base_url = 'https://api.openalex.org/works?filter=institutions.id:https://openalex.org/I6902469,publication_year:2020&sort=publication_date:desc'
+    file_name = 'brandeis_2024.json'
 
-#     fetcher = get_data_openAlex(base_url, file_name)
-#     fetcher.get_data_openAlex()
+    fetcher = get_data_openAlex(base_url, file_name)
+    fetcher.get_data_openAlex()
 
