@@ -1,0 +1,1329 @@
+{
+  "id": "https://openalex.org/W4405963434",
+  "doi": "https://doi.org/10.1073/pnas.2415150122",
+  "title": "Dual-action kinase inhibitors influence p38\u03b1 MAP kinase dephosphorylation",
+  "display_name": "Dual-action kinase inhibitors influence p38\u03b1 MAP kinase dephosphorylation",
+  "publication_year": 2024,
+  "publication_date": "2024-12-31",
+  "ids": {
+    "openalex": "https://openalex.org/W4405963434",
+    "doi": "https://doi.org/10.1073/pnas.2415150122",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/39739785"
+  },
+  "language": "en",
+  "primary_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1073/pnas.2415150122",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S125754415",
+      "display_name": "Proceedings of the National Academy of Sciences",
+      "issn_l": "0027-8424",
+      "issn": [
+        "0027-8424",
+        "1091-6490"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320052",
+      "host_organization_name": "National Academy of Sciences",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320052"
+      ],
+      "host_organization_lineage_names": [
+        "National Academy of Sciences"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "type": "article",
+  "type_crossref": "journal-article",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1073/pnas.2415150122",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5017913396",
+        "display_name": "Emily Jane Stadnicki",
+        "orcid": "https://orcid.org/0009-0000-5280-6047"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I6902469",
+          "display_name": "Brandeis University",
+          "ror": "https://ror.org/05abbep66",
+          "country_code": "US",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I6902469"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Emily J. Stadnicki",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry, Brandeis University"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry, Brandeis University",
+          "institution_ids": [
+            "https://openalex.org/I6902469"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5011227935",
+        "display_name": "Hannes Ludewig",
+        "orcid": "https://orcid.org/0000-0003-1130-1442"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I6902469",
+          "display_name": "Brandeis University",
+          "ror": "https://ror.org/05abbep66",
+          "country_code": "US",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I6902469"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hannes Ludewig",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry, Brandeis University",
+        "HHMI, Brandeis University"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry, Brandeis University",
+          "institution_ids": [
+            "https://openalex.org/I6902469"
+          ]
+        },
+        {
+          "raw_affiliation_string": "HHMI, Brandeis University",
+          "institution_ids": [
+            "https://openalex.org/I6902469"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5071966352",
+        "display_name": "Ramasamy P. Kumar",
+        "orcid": "https://orcid.org/0000-0002-6555-8289"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I6902469",
+          "display_name": "Brandeis University",
+          "ror": "https://ror.org/05abbep66",
+          "country_code": "US",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I6902469"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ramasamy P. Kumar",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry, Brandeis University"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry, Brandeis University",
+          "institution_ids": [
+            "https://openalex.org/I6902469"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5102665121",
+        "display_name": "Xicong Wang",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I6902469",
+          "display_name": "Brandeis University",
+          "ror": "https://ror.org/05abbep66",
+          "country_code": "US",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I6902469"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Xicong Wang",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry, Brandeis University"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry, Brandeis University",
+          "institution_ids": [
+            "https://openalex.org/I6902469"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5024584594",
+        "display_name": "Youwei Qiao",
+        "orcid": "https://orcid.org/0000-0002-8495-2097"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I6902469",
+          "display_name": "Brandeis University",
+          "ror": "https://ror.org/05abbep66",
+          "country_code": "US",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I6902469"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Youwei Qiao",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry, Brandeis University"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry, Brandeis University",
+          "institution_ids": [
+            "https://openalex.org/I6902469"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5071376755",
+        "display_name": "Dorothee Kern",
+        "orcid": "https://orcid.org/0000-0002-7631-8328"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I6902469",
+          "display_name": "Brandeis University",
+          "ror": "https://ror.org/05abbep66",
+          "country_code": "US",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I6902469"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Dorothee Kern",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry, Brandeis University",
+        "HHMI, Brandeis University"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry, Brandeis University",
+          "institution_ids": [
+            "https://openalex.org/I6902469"
+          ]
+        },
+        {
+          "raw_affiliation_string": "HHMI, Brandeis University",
+          "institution_ids": [
+            "https://openalex.org/I6902469"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5040122426",
+        "display_name": "Niels Bradshaw",
+        "orcid": "https://orcid.org/0000-0002-6845-4717"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I6902469",
+          "display_name": "Brandeis University",
+          "ror": "https://ror.org/05abbep66",
+          "country_code": "US",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I6902469"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Niels Bradshaw",
+      "raw_affiliation_strings": [
+        "Department of Biochemistry, Brandeis University"
+      ],
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biochemistry, Brandeis University",
+          "institution_ids": [
+            "https://openalex.org/I6902469"
+          ]
+        }
+      ]
+    }
+  ],
+  "institution_assertions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.0,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 0,
+    "max": 74
+  },
+  "biblio": {
+    "volume": "122",
+    "issue": "1",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11533",
+    "display_name": "Melanoma and MAPK Pathways",
+    "score": 0.9997,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1312",
+      "display_name": "Molecular Biology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/13",
+      "display_name": "Biochemistry, Genetics and Molecular Biology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/1",
+      "display_name": "Life Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11533",
+      "display_name": "Melanoma and MAPK Pathways",
+      "score": 0.9997,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10169",
+      "display_name": "Protein Kinase Regulation and GTPase Signaling",
+      "score": 0.9988,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1312",
+        "display_name": "Molecular Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10492",
+      "display_name": "Microtubule and mitosis dynamics",
+      "score": 0.995,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1307",
+        "display_name": "Cell Biology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/13",
+        "display_name": "Biochemistry, Genetics and Molecular Biology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/1",
+        "display_name": "Life Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/dephosphorylation",
+      "display_name": "Dephosphorylation",
+      "score": 0.8028756
+    },
+    {
+      "id": "https://openalex.org/keywords/dual-specificity-phosphatase",
+      "display_name": "Dual-specificity phosphatase",
+      "score": 0.41398585
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C181912034",
+      "wikidata": "https://www.wikidata.org/wiki/Q1101143",
+      "display_name": "Dephosphorylation",
+      "level": 4,
+      "score": 0.8028756
+    },
+    {
+      "id": "https://openalex.org/C184235292",
+      "wikidata": "https://www.wikidata.org/wiki/Q421851",
+      "display_name": "Kinase",
+      "level": 2,
+      "score": 0.6294056
+    },
+    {
+      "id": "https://openalex.org/C11960822",
+      "wikidata": "https://www.wikidata.org/wiki/Q242736",
+      "display_name": "Phosphorylation",
+      "level": 2,
+      "score": 0.6166793
+    },
+    {
+      "id": "https://openalex.org/C178666793",
+      "wikidata": "https://www.wikidata.org/wiki/Q422476",
+      "display_name": "Phosphatase",
+      "level": 3,
+      "score": 0.61016154
+    },
+    {
+      "id": "https://openalex.org/C97029542",
+      "wikidata": "https://www.wikidata.org/wiki/Q281417",
+      "display_name": "Protein kinase A",
+      "level": 3,
+      "score": 0.5313801
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.49330083
+    },
+    {
+      "id": "https://openalex.org/C132149769",
+      "wikidata": "https://www.wikidata.org/wiki/Q899651",
+      "display_name": "Mitogen-activated protein kinase",
+      "level": 3,
+      "score": 0.49287367
+    },
+    {
+      "id": "https://openalex.org/C2775880066",
+      "wikidata": "https://www.wikidata.org/wiki/Q186521",
+      "display_name": "Threonine",
+      "level": 4,
+      "score": 0.46174958
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.44674644
+    },
+    {
+      "id": "https://openalex.org/C82495950",
+      "wikidata": "https://www.wikidata.org/wiki/Q14911732",
+      "display_name": "Cyclin-dependent kinase 2",
+      "level": 4,
+      "score": 0.43474135
+    },
+    {
+      "id": "https://openalex.org/C2780429522",
+      "wikidata": "https://www.wikidata.org/wiki/Q83132533",
+      "display_name": "Dual-specificity phosphatase",
+      "level": 4,
+      "score": 0.41398585
+    },
+    {
+      "id": "https://openalex.org/C95444343",
+      "wikidata": "https://www.wikidata.org/wiki/Q7141",
+      "display_name": "Cell biology",
+      "level": 1,
+      "score": 0.39911866
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.37479407
+    },
+    {
+      "id": "https://openalex.org/C2776414213",
+      "wikidata": "https://www.wikidata.org/wiki/Q183290",
+      "display_name": "Serine",
+      "level": 3,
+      "score": 0.28430408
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D020134",
+      "descriptor_name": "Catalytic Domain",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D018360",
+      "descriptor_name": "Crystallography, X-Ray",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D048308",
+      "descriptor_name": "Mitogen-Activated Protein Kinase 14",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008958",
+      "descriptor_name": "Models, Molecular",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010766",
+      "descriptor_name": "Phosphorylation",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D011487",
+      "descriptor_name": "Protein Conformation",
+      "qualifier_ui": "",
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D047428",
+      "descriptor_name": "Protein Kinase Inhibitors",
+      "qualifier_ui": "Q000494",
+      "qualifier_name": "pharmacology",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000071636",
+      "descriptor_name": "Protein Phosphatase 2C",
+      "qualifier_ui": "Q000378",
+      "qualifier_name": "metabolism",
+      "is_major_topic": false
+    }
+  ],
+  "locations_count": 2,
+  "locations": [
+    {
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1073/pnas.2415150122",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S125754415",
+        "display_name": "Proceedings of the National Academy of Sciences",
+        "issn_l": "0027-8424",
+        "issn": [
+          "0027-8424",
+          "1091-6490"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320052",
+        "host_organization_name": "National Academy of Sciences",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320052"
+        ],
+        "host_organization_lineage_names": [
+          "National Academy of Sciences"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true
+    },
+    {
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/39739785",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_indexed_in_scopus": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [
+          "National Institutes of Health"
+        ],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": null,
+      "is_accepted": false,
+      "is_published": false
+    }
+  ],
+  "best_oa_location": {
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1073/pnas.2415150122",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S125754415",
+      "display_name": "Proceedings of the National Academy of Sciences",
+      "issn_l": "0027-8424",
+      "issn": [
+        "0027-8424",
+        "1091-6490"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_indexed_in_scopus": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320052",
+      "host_organization_name": "National Academy of Sciences",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320052"
+      ],
+      "host_organization_lineage_names": [
+        "National Academy of Sciences"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.81,
+      "id": "https://metadata.un.org/sdg/3",
+      "display_name": "Good health and well-being"
+    }
+  ],
+  "grants": [],
+  "datasets": [],
+  "versions": [],
+  "referenced_works_count": 81,
+  "referenced_works": [
+    "https://openalex.org/W1833680771",
+    "https://openalex.org/W1965790167",
+    "https://openalex.org/W1965902294",
+    "https://openalex.org/W1967702420",
+    "https://openalex.org/W1968465870",
+    "https://openalex.org/W1970174659",
+    "https://openalex.org/W1977341692",
+    "https://openalex.org/W1992945955",
+    "https://openalex.org/W1993571705",
+    "https://openalex.org/W2012559779",
+    "https://openalex.org/W2014720385",
+    "https://openalex.org/W2023795537",
+    "https://openalex.org/W2025165568",
+    "https://openalex.org/W2030205108",
+    "https://openalex.org/W2030517878",
+    "https://openalex.org/W2032486482",
+    "https://openalex.org/W2032731042",
+    "https://openalex.org/W2038679488",
+    "https://openalex.org/W2038938133",
+    "https://openalex.org/W2040169548",
+    "https://openalex.org/W2051965103",
+    "https://openalex.org/W2056385567",
+    "https://openalex.org/W2057069307",
+    "https://openalex.org/W2060026498",
+    "https://openalex.org/W2072456220",
+    "https://openalex.org/W2077697175",
+    "https://openalex.org/W2086286404",
+    "https://openalex.org/W2086628330",
+    "https://openalex.org/W2086790663",
+    "https://openalex.org/W2100438302",
+    "https://openalex.org/W2106555552",
+    "https://openalex.org/W2107448187",
+    "https://openalex.org/W2110808180",
+    "https://openalex.org/W2112436968",
+    "https://openalex.org/W2118460316",
+    "https://openalex.org/W2121668468",
+    "https://openalex.org/W2124026197",
+    "https://openalex.org/W2131174104",
+    "https://openalex.org/W2138241508",
+    "https://openalex.org/W2141968036",
+    "https://openalex.org/W2144099695",
+    "https://openalex.org/W2145442626",
+    "https://openalex.org/W2147510335",
+    "https://openalex.org/W2150541721",
+    "https://openalex.org/W2154197653",
+    "https://openalex.org/W2159765576",
+    "https://openalex.org/W2163341755",
+    "https://openalex.org/W2166393142",
+    "https://openalex.org/W2166875189",
+    "https://openalex.org/W2316580945",
+    "https://openalex.org/W2414800588",
+    "https://openalex.org/W2414854025",
+    "https://openalex.org/W2476931074",
+    "https://openalex.org/W2765322245",
+    "https://openalex.org/W2791955556",
+    "https://openalex.org/W2801310181",
+    "https://openalex.org/W2876540176",
+    "https://openalex.org/W2959963037",
+    "https://openalex.org/W2973457155",
+    "https://openalex.org/W2995537689",
+    "https://openalex.org/W2997947903",
+    "https://openalex.org/W3013139410",
+    "https://openalex.org/W3016570710",
+    "https://openalex.org/W3030228225",
+    "https://openalex.org/W3042173311",
+    "https://openalex.org/W3083406432",
+    "https://openalex.org/W3122470240",
+    "https://openalex.org/W3161074857",
+    "https://openalex.org/W3206696710",
+    "https://openalex.org/W3212685950",
+    "https://openalex.org/W4221061854",
+    "https://openalex.org/W4248872320",
+    "https://openalex.org/W4283716259",
+    "https://openalex.org/W4285491860",
+    "https://openalex.org/W4318755108",
+    "https://openalex.org/W4376871035",
+    "https://openalex.org/W4385781164",
+    "https://openalex.org/W4386736860",
+    "https://openalex.org/W4389240014",
+    "https://openalex.org/W4393246022",
+    "https://openalex.org/W4400521316"
+  ],
+  "related_works": [
+    "https://openalex.org/W312251657",
+    "https://openalex.org/W3046745635",
+    "https://openalex.org/W2399418957",
+    "https://openalex.org/W2156258940",
+    "https://openalex.org/W2071993841",
+    "https://openalex.org/W2065568194",
+    "https://openalex.org/W2020131371",
+    "https://openalex.org/W2011126155",
+    "https://openalex.org/W1996105881",
+    "https://openalex.org/W1981595804"
+  ],
+  "abstract_inverted_index": {
+    "Reversible": [
+      0
+    ],
+    "protein": [
+      1,
+      18,
+      39,
+      66
+    ],
+    "phosphorylation": [
+      2,
+      19,
+      44
+    ],
+    "directs": [
+      3
+    ],
+    "essential": [
+      4
+    ],
+    "cellular": [
+      5
+    ],
+    "processes": [
+      6
+    ],
+    "including": [
+      7
+    ],
+    "cell": [
+      8,
+      10,
+      12
+    ],
+    "division,": [
+      9
+    ],
+    "growth,": [
+      11
+    ],
+    "death,": [
+      13
+    ],
+    "inflammation,": [
+      14
+    ],
+    "and": [
+      15,
+      24,
+      107,
+      149,
+      221,
+      230
+    ],
+    "differentiation.": [
+      16
+    ],
+    "Because": [
+      17
+    ],
+    "drives": [
+      20
+    ],
+    "diverse": [
+      21
+    ],
+    "diseases,": [
+      22
+    ],
+    "kinases": [
+      23,
+      40
+    ],
+    "phosphatases": [
+      25,
+      67,
+      217
+    ],
+    "have": [
+      26
+    ],
+    "been": [
+      27
+    ],
+    "targets": [
+      28,
+      220
+    ],
+    "for": [
+      29,
+      218,
+      232
+    ],
+    "drug": [
+      30
+    ],
+    "discovery,": [
+      31
+    ],
+    "with": [
+      32,
+      101,
+      174,
+      196
+    ],
+    "some": [
+      33
+    ],
+    "achieving": [
+      34,
+      227
+    ],
+    "remarkable": [
+      35
+    ],
+    "clinical": [
+      36
+    ],
+    "success.": [
+      37
+    ],
+    "Most": [
+      38
+    ],
+    "are": [
+      41,
+      140
+    ],
+    "activated": [
+      42
+    ],
+    "by": [
+      43,
+      131
+    ],
+    "of": [
+      45,
+      54,
+      75,
+      96,
+      124,
+      126,
+      157,
+      170,
+      185,
+      205,
+      216
+    ],
+    "their": [
+      46,
+      219
+    ],
+    "activation": [
+      47,
+      78,
+      92,
+      111,
+      128,
+      172,
+      193
+    ],
+    "loops,": [
+      48
+    ],
+    "which": [
+      49
+    ],
+    "shifts": [
+      50
+    ],
+    "the": [
+      51,
+      55,
+      58,
+      64,
+      73,
+      76,
+      91,
+      122,
+      127,
+      132,
+      146,
+      162,
+      171,
+      202
+    ],
+    "conformational": [
+      52,
+      94,
+      214
+    ],
+    "equilibrium": [
+      53,
+      95
+    ],
+    "kinase": [
+      56,
+      100,
+      103,
+      234
+    ],
+    "toward": [
+      57
+    ],
+    "active": [
+      59,
+      147
+    ],
+    "state.": [
+      60
+    ],
+    "To": [
+      61,
+      86
+    ],
+    "turn": [
+      62
+    ],
+    "off": [
+      63
+    ],
+    "kinase,": [
+      65
+    ],
+    "dephosphorylate": [
+      68
+    ],
+    "these": [
+      69,
+      138
+    ],
+    "sites,": [
+      70
+    ],
+    "but": [
+      71
+    ],
+    "how": [
+      72
+    ],
+    "conformation": [
+      74,
+      169,
+      195
+    ],
+    "dynamic": [
+      77
+    ],
+    "loop": [
+      79,
+      93,
+      112,
+      129,
+      173,
+      194
+    ],
+    "contributes": [
+      80
+    ],
+    "to": [
+      81,
+      161,
+      226
+    ],
+    "dephosphorylation": [
+      82,
+      125,
+      206
+    ],
+    "was": [
+      83
+    ],
+    "not": [
+      84
+    ],
+    "known.": [
+      85
+    ],
+    "answer": [
+      87
+    ],
+    "this,": [
+      88,
+      115
+    ],
+    "we": [
+      89,
+      116
+    ],
+    "modulated": [
+      90
+    ],
+    "human": [
+      97,
+      188
+    ],
+    "p38\u03b1": [
+      98,
+      151,
+      159,
+      189
+    ],
+    "\u039c\u0391P": [
+      99
+    ],
+    "existing": [
+      102
+    ],
+    "inhibitors": [
+      104,
+      119,
+      142,
+      164
+    ],
+    "that": [
+      105,
+      120,
+      143
+    ],
+    "bind": [
+      106
+    ],
+    "stabilize": [
+      108
+    ],
+    "specific": [
+      109
+    ],
+    "inactive": [
+      110
+    ],
+    "conformations.": [
+      113
+    ],
+    "From": [
+      114
+    ],
+    "identified": [
+      117
+    ],
+    "three": [
+      118
+    ],
+    "increase": [
+      121
+    ],
+    "rate": [
+      123,
+      204
+    ],
+    "phospho-threonine": [
+      130
+    ],
+    "PPM": [
+      133
+    ],
+    "serine/threonine": [
+      134
+    ],
+    "phosphatase": [
+      135
+    ],
+    "WIP1.": [
+      136
+    ],
+    "Hence,": [
+      137
+    ],
+    "compounds": [
+      139
+    ],
+    "\u201cdual-action\u201d": [
+      141
+    ],
+    "simultaneously": [
+      144
+    ],
+    "block": [
+      145
+    ],
+    "site": [
+      148
+    ],
+    "promote": [
+      150
+    ],
+    "dephosphorylation.": [
+      152
+    ],
+    "Our": [
+      153
+    ],
+    "X-ray": [
+      154,
+      182
+    ],
+    "crystal": [
+      155,
+      183
+    ],
+    "structures": [
+      156
+    ],
+    "phosphorylated": [
+      158,
+      186
+    ],
+    "bound": [
+      160
+    ],
+    "dual-action": [
+      163
+    ],
+    "reveal": [
+      165,
+      212
+    ],
+    "a": [
+      166,
+      175,
+      191,
+      213,
+      223
+    ],
+    "shared": [
+      167
+    ],
+    "flipped": [
+      168
+    ],
+    "fully": [
+      176
+    ],
+    "accessible": [
+      177
+    ],
+    "phospho-threonine.": [
+      178
+    ],
+    "In": [
+      179
+    ],
+    "contrast,": [
+      180
+    ],
+    "our": [
+      181
+    ],
+    "structure": [
+      184
+    ],
+    "apo": [
+      187
+    ],
+    "reveals": [
+      190
+    ],
+    "different": [
+      192
+    ],
+    "an": [
+      197
+    ],
+    "inaccessible": [
+      198
+    ],
+    "phospho-threonine,": [
+      199
+    ],
+    "thereby": [
+      200
+    ],
+    "explaining": [
+      201
+    ],
+    "increased": [
+      203
+    ],
+    "upon": [
+      207
+    ],
+    "inhibitor": [
+      208
+    ],
+    "binding.": [
+      209
+    ],
+    "These": [
+      210
+    ],
+    "findings": [
+      211
+    ],
+    "preference": [
+      215
+    ],
+    "suggest": [
+      222
+    ],
+    "unique": [
+      224
+    ],
+    "approach": [
+      225
+    ],
+    "improved": [
+      228
+    ],
+    "potency": [
+      229
+    ],
+    "specificity": [
+      231
+    ],
+    "therapeutic": [
+      233
+    ],
+    "inhibitors.": [
+      235
+    ]
+  },
+  "abstract_inverted_index_v3": null,
+  "cited_by_api_url": "https://api.openalex.org/works?filter=cites:W4405963434",
+  "counts_by_year": [],
+  "updated_date": "2025-06-13T21:40:21.694959",
+  "created_date": "2025-01-01"
+}
