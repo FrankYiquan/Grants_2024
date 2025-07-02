@@ -8,7 +8,7 @@ def clean_award_id(award_id):
     match = re.search(r'\d+', award_id)
     return match.group() if match else None
 
-def get_award_info(award_id):
+def get_nsf_award(award_id):
 
 
     #normalize the award_id to ensure it is a string
@@ -112,16 +112,10 @@ def filter_nih_from_unique_funders():
     
     print(f"Filtered {len(nsf_funders)} NSF funders from {len(unique_funders)} unique funders.")
 
-def is_nsf_funder_debug(funder: str) -> bool:
-    funder_lower = funder.lower()
-    for org in NSF_ORGANIZATIONS:
-        if org.lower() in funder_lower:
-            print(f"MATCH FOUND: '{org}' in '{funder}'")
-            return True
-    return False
 
 #filter_nih_from_unique_funders()
-is_nsf_funder_debug("United States - Israel Binational Science Foundation")
+print(check_nsf_funder("United States - Israel Binational Science Foundation"))  # Example usage
+
 # # Example usage
 # info = get_award_info("")
 # print(info)
